@@ -1,0 +1,1501 @@
+﻿Date,MONTH,Product,Category,Sales Representative,City,No. of Units,Price,Amount
+08-10-2021,October,Apple AirPods Pro,Laptop,Tara,Delhi,16,1539,24624
+25-06-2021,June,iPhone 11 Pro,Laptop,Giana,Delhi,31,1034,32054
+23-08-2021,August,iPhone 11 Pro,Headphone,Bruce,Delhi,11,1863,20493
+15-04-2021,April,Apple AirPods Pro,Headphone,Giana,Delhi,12,490,5880
+30-07-2021,July,Dell XPS 13,Headphone,Aryan,Cochin,2,992,1984
+07-04-2021,April,Apple AirPods Pro,Laptop,Aryan,Delhi,2,847,1694
+13-12-2021,December,OnePlus Buds,Headphone,Krish,Bangalore,35,892,31220
+27-09-2021,September,iPhone 11 Pro,Headphone,Aryan,Bangalore,39,1399,54561
+06-12-2021,December,iPhone 11 Pro,Laptop,Giana,Delhi,37,1920,71040
+01-10-2021,October,Dell XPS 13,Phone,Kate,Bangalore,48,1542,74016
+17-04-2021,April,Dell XPS 13,Phone,Kate,Cochin,45,954,42930
+11-02-2021,February,iPhone 11 Pro,Phone,Krish,Delhi,11,503,5533
+24-11-2021,November,Dell XPS 13,Laptop,Aryan,Cochin,7,1059,7413
+01-12-2021,December,iPhone 11 Pro,Phone,Bruce,Delhi,11,258,2838
+22-09-2021,September,Apple AirPods Pro,Laptop,Kate,Cochin,50,1434,71700
+22-12-2021,December,OnePlus Buds,Laptop,Tara,Delhi,28,150,4200
+25-03-2021,March,Dell XPS 13,Laptop,Tara,Mumbai,13,1907,24791
+29-06-2021,June,HP Envy x360,Headphone,Tara,Bangalore,46,509,23414
+28-06-2021,June,Apple AirPods Pro,Phone,Aryan,Bangalore,38,800,30400
+06-01-2021,January,Apple AirPods Pro,Phone,Asif,Cochin,38,707,26866
+04-01-2021,January,Dell XPS 13,Phone,Aryan,Cochin,6,1503,9018
+20-09-2021,September,iPhone 11 Pro,Laptop,Giana,Cochin,50,285,14250
+28-08-2021,August,OnePlus Buds,Laptop,Giana,Bangalore,25,125,3125
+21-05-2021,May,iPhone 11 Pro,Phone,Kate,Cochin,38,1386,52668
+07-12-2021,December,HP Envy x360,Headphone,Bruce,Delhi,28,1674,46872
+06-04-2021,April,OnePlus Buds,Laptop,Asif,Mumbai,37,679,25123
+25-04-2021,April,iPhone 11 Pro,Phone,Bruce,Bangalore,47,200,9400
+27-05-2021,May,Apple AirPods Pro,Laptop,Aryan,Mumbai,5,717,3585
+09-06-2021,June,OnePlus Buds,Laptop,Bruce,Mumbai,31,1765,54715
+02-01-2021,January,Dell XPS 13,Headphone,Bruce,Cochin,37,603,22311
+22-11-2021,November,OnePlus Buds,Phone,Aryan,Delhi,26,1541,40066
+20-01-2021,January,HP Envy x360,Phone,Bruce,Bangalore,15,1389,20835
+13-09-2021,September,iPhone 11 Pro,Laptop,Asif,Mumbai,9,217,1953
+23-05-2021,May,Dell XPS 13,Laptop,Giana,Cochin,43,126,5418
+20-07-2021,July,Apple AirPods Pro,Laptop,Kate,Delhi,5,107,535
+14-04-2021,April,Apple AirPods Pro,Headphone,Asif,Cochin,2,1099,2198
+22-01-2021,January,HP Envy x360,Headphone,Giana,Cochin,33,1093,36069
+15-09-2021,September,Dell XPS 13,Laptop,Kate,Delhi,48,1333,63984
+04-06-2021,June,HP Envy x360,Phone,Aryan,Mumbai,46,359,16514
+14-03-2021,March,HP Envy x360,Laptop,Aryan,Bangalore,49,665,32585
+10-10-2021,October,iPhone 11 Pro,Laptop,Krish,Mumbai,5,1157,5785
+17-12-2021,December,OnePlus Buds,Laptop,Krish,Bangalore,50,506,25300
+21-07-2021,July,iPhone 11 Pro,Laptop,Krish,Cochin,18,1295,23310
+25-04-2021,April,iPhone 11 Pro,Headphone,Aryan,Delhi,44,1178,51832
+25-01-2021,January,HP Envy x360,Headphone,Aryan,Mumbai,31,1235,38285
+04-08-2021,August,OnePlus Buds,Phone,Giana,Bangalore,14,118,1652
+10-10-2021,October,HP Envy x360,Phone,Krish,Bangalore,13,1135,14755
+17-05-2021,May,OnePlus Buds,Phone,Aryan,Delhi,43,608,26144
+07-12-2021,December,Dell XPS 13,Phone,Giana,Delhi,6,1431,8586
+22-08-2021,August,HP Envy x360,Headphone,Tara,Delhi,41,1818,74538
+16-11-2021,November,OnePlus Buds,Headphone,Giana,Cochin,46,1619,74474
+11-08-2021,August,Dell XPS 13,Headphone,Kate,Delhi,3,1872,5616
+02-01-2021,January,iPhone 11 Pro,Laptop,Krish,Cochin,48,338,16224
+20-04-2021,April,Dell XPS 13,Laptop,Bruce,Bangalore,22,325,7150
+23-03-2021,March,HP Envy x360,Headphone,Kate,Delhi,39,1544,60216
+03-08-2021,August,iPhone 11 Pro,Headphone,Giana,Delhi,49,1339,65611
+06-09-2021,September,OnePlus Buds,Laptop,Giana,Delhi,4,1520,6080
+12-01-2021,January,iPhone 11 Pro,Headphone,Bruce,Delhi,18,1012,18216
+11-08-2021,August,HP Envy x360,Headphone,Aryan,Delhi,40,263,10520
+15-03-2021,March,iPhone 11 Pro,Phone,Bruce,Delhi,33,1695,55935
+18-04-2021,April,Dell XPS 13,Phone,Krish,Mumbai,5,130,650
+24-06-2021,June,OnePlus Buds,Laptop,Asif,Mumbai,39,449,17511
+04-10-2021,October,Apple AirPods Pro,Laptop,Asif,Bangalore,13,886,11518
+28-12-2021,December,HP Envy x360,Headphone,Bruce,Cochin,3,977,2931
+20-07-2021,July,Dell XPS 13,Laptop,Bruce,Cochin,45,1444,64980
+27-02-2021,February,Apple AirPods Pro,Headphone,Asif,Cochin,16,487,7792
+14-12-2021,December,Dell XPS 13,Phone,Aryan,Mumbai,21,1131,23751
+16-11-2021,November,HP Envy x360,Phone,Giana,Cochin,27,1525,41175
+01-09-2021,September,Dell XPS 13,Laptop,Giana,Mumbai,39,1356,52884
+20-06-2021,June,Apple AirPods Pro,Laptop,Tara,Cochin,7,1724,12068
+24-07-2021,July,OnePlus Buds,Headphone,Asif,Mumbai,42,963,40446
+07-01-2021,January,iPhone 11 Pro,Laptop,Bruce,Cochin,28,1003,28084
+24-02-2021,February,Apple AirPods Pro,Headphone,Bruce,Delhi,36,410,14760
+17-03-2021,March,HP Envy x360,Laptop,Giana,Bangalore,49,1236,60564
+20-02-2021,February,HP Envy x360,Headphone,Giana,Cochin,10,263,2630
+08-06-2021,June,OnePlus Buds,Laptop,Tara,Delhi,47,200,9400
+26-10-2021,October,OnePlus Buds,Headphone,Bruce,Bangalore,34,388,13192
+04-06-2021,June,OnePlus Buds,Phone,Tara,Bangalore,11,1043,11473
+22-12-2021,December,Dell XPS 13,Headphone,Bruce,Delhi,23,454,10442
+24-01-2021,January,HP Envy x360,Phone,Krish,Cochin,43,258,11094
+21-02-2021,February,HP Envy x360,Headphone,Tara,Cochin,48,1705,81840
+17-03-2021,March,HP Envy x360,Headphone,Krish,Cochin,17,924,15708
+05-11-2021,November,Dell XPS 13,Phone,Asif,Mumbai,37,956,35372
+05-05-2021,May,OnePlus Buds,Laptop,Kate,Mumbai,44,1077,47388
+21-04-2021,April,OnePlus Buds,Laptop,Krish,Cochin,42,1493,62706
+20-04-2021,April,Apple AirPods Pro,Phone,Giana,Cochin,44,1444,63536
+17-10-2021,October,OnePlus Buds,Laptop,Giana,Delhi,9,544,4896
+04-05-2021,May,Apple AirPods Pro,Headphone,Giana,Delhi,3,1657,4971
+13-01-2021,January,HP Envy x360,Laptop,Asif,Mumbai,14,979,13706
+21-09-2021,September,iPhone 11 Pro,Laptop,Kate,Delhi,43,680,29240
+23-05-2021,May,HP Envy x360,Phone,Asif,Bangalore,31,1515,46965
+03-02-2021,February,Dell XPS 13,Headphone,Aryan,Delhi,4,980,3920
+21-04-2021,April,OnePlus Buds,Headphone,Bruce,Bangalore,44,1073,47212
+26-12-2021,December,iPhone 11 Pro,Headphone,Krish,Delhi,46,335,15410
+09-08-2021,August,Dell XPS 13,Headphone,Asif,Cochin,41,745,30545
+24-12-2021,December,Dell XPS 13,Headphone,Tara,Cochin,8,1426,11408
+16-07-2021,July,HP Envy x360,Phone,Asif,Bangalore,36,731,26316
+21-05-2021,May,Dell XPS 13,Phone,Kate,Bangalore,18,1670,30060
+18-08-2021,August,OnePlus Buds,Phone,Tara,Delhi,42,1181,49602
+08-02-2021,February,OnePlus Buds,Phone,Giana,Delhi,18,1928,34704
+24-07-2021,July,Apple AirPods Pro,Phone,Giana,Cochin,29,476,13804
+16-06-2021,June,HP Envy x360,Laptop,Aryan,Mumbai,46,503,23138
+02-06-2021,June,OnePlus Buds,Headphone,Aryan,Mumbai,40,1046,41840
+13-07-2021,July,iPhone 11 Pro,Laptop,Kate,Cochin,48,1056,50688
+03-06-2021,June,HP Envy x360,Laptop,Krish,Delhi,42,305,12810
+30-08-2021,August,OnePlus Buds,Laptop,Aryan,Bangalore,10,166,1660
+26-02-2021,February,Dell XPS 13,Laptop,Giana,Delhi,27,448,12096
+05-05-2021,May,OnePlus Buds,Phone,Bruce,Mumbai,36,1545,55620
+05-12-2021,December,iPhone 11 Pro,Phone,Aryan,Bangalore,48,340,16320
+14-11-2021,November,OnePlus Buds,Laptop,Aryan,Delhi,18,1304,23472
+06-08-2021,August,Dell XPS 13,Laptop,Bruce,Mumbai,26,1971,51246
+03-02-2021,February,Apple AirPods Pro,Headphone,Aryan,Bangalore,14,258,3612
+02-06-2021,June,iPhone 11 Pro,Laptop,Asif,Cochin,28,970,27160
+21-01-2021,January,HP Envy x360,Laptop,Asif,Bangalore,5,1140,5700
+10-12-2021,December,Dell XPS 13,Laptop,Asif,Bangalore,30,1730,51900
+19-03-2021,March,iPhone 11 Pro,Laptop,Aryan,Bangalore,5,205,1025
+31-05-2021,May,HP Envy x360,Headphone,Bruce,Mumbai,27,100,2700
+28-06-2021,June,iPhone 11 Pro,Laptop,Giana,Delhi,28,320,8960
+07-10-2021,October,HP Envy x360,Phone,Bruce,Bangalore,47,1137,53439
+04-04-2021,April,OnePlus Buds,Headphone,Krish,Bangalore,25,1852,46300
+11-06-2021,June,Apple AirPods Pro,Headphone,Aryan,Cochin,24,281,6744
+08-06-2021,June,OnePlus Buds,Laptop,Aryan,Delhi,19,1384,26296
+16-03-2021,March,HP Envy x360,Laptop,Krish,Mumbai,30,1803,54090
+09-03-2021,March,HP Envy x360,Phone,Krish,Mumbai,26,362,9412
+19-05-2021,May,OnePlus Buds,Laptop,Tara,Bangalore,17,188,3196
+23-12-2021,December,OnePlus Buds,Headphone,Asif,Delhi,35,1391,48685
+14-10-2021,October,Dell XPS 13,Laptop,Asif,Cochin,48,1496,71808
+06-11-2021,November,Dell XPS 13,Laptop,Aryan,Cochin,7,1743,12201
+11-10-2021,October,HP Envy x360,Headphone,Kate,Cochin,7,1050,7350
+20-10-2021,October,iPhone 11 Pro,Laptop,Krish,Mumbai,49,809,39641
+25-11-2021,November,iPhone 11 Pro,Laptop,Aryan,Mumbai,17,1361,23137
+17-07-2021,July,Dell XPS 13,Phone,Bruce,Delhi,27,1820,49140
+12-07-2021,July,HP Envy x360,Phone,Krish,Bangalore,39,1020,39780
+12-11-2021,November,Dell XPS 13,Phone,Krish,Delhi,40,1184,47360
+23-10-2021,October,OnePlus Buds,Phone,Giana,Delhi,41,1845,75645
+09-03-2021,March,Apple AirPods Pro,Laptop,Giana,Bangalore,1,387,387
+03-05-2021,May,Apple AirPods Pro,Laptop,Kate,Mumbai,49,624,30576
+18-02-2021,February,Apple AirPods Pro,Laptop,Asif,Mumbai,7,1615,11305
+23-06-2021,June,Apple AirPods Pro,Phone,Bruce,Delhi,40,1798,71920
+24-11-2021,November,OnePlus Buds,Headphone,Tara,Cochin,15,725,10875
+10-05-2021,May,HP Envy x360,Phone,Aryan,Cochin,1,425,425
+19-09-2021,September,iPhone 11 Pro,Laptop,Tara,Delhi,27,1894,51138
+03-09-2021,September,Apple AirPods Pro,Headphone,Krish,Delhi,33,979,32307
+04-09-2021,September,Dell XPS 13,Laptop,Tara,Cochin,10,1380,13800
+11-02-2021,February,OnePlus Buds,Headphone,Krish,Delhi,17,1756,29852
+14-03-2021,March,Apple AirPods Pro,Laptop,Kate,Cochin,9,1813,16317
+26-07-2021,July,OnePlus Buds,Phone,Kate,Bangalore,38,1690,64220
+04-08-2021,August,HP Envy x360,Phone,Krish,Mumbai,10,1646,16460
+24-10-2021,October,OnePlus Buds,Phone,Tara,Cochin,11,921,10131
+26-12-2021,December,HP Envy x360,Laptop,Bruce,Delhi,35,1295,45325
+15-12-2021,December,HP Envy x360,Phone,Krish,Delhi,28,1190,33320
+29-03-2021,March,OnePlus Buds,Laptop,Tara,Delhi,22,397,8734
+20-10-2021,October,OnePlus Buds,Headphone,Tara,Delhi,22,1231,27082
+18-05-2021,May,Dell XPS 13,Phone,Bruce,Bangalore,15,1287,19305
+15-08-2021,August,HP Envy x360,Laptop,Asif,Mumbai,14,296,4144
+21-02-2021,February,OnePlus Buds,Phone,Krish,Delhi,25,203,5075
+08-08-2021,August,HP Envy x360,Headphone,Tara,Mumbai,23,1688,38824
+04-03-2021,March,iPhone 11 Pro,Headphone,Aryan,Bangalore,6,1872,11232
+16-05-2021,May,HP Envy x360,Phone,Tara,Delhi,10,1899,18990
+16-01-2021,January,Dell XPS 13,Headphone,Kate,Cochin,31,1003,31093
+02-05-2021,May,iPhone 11 Pro,Headphone,Asif,Bangalore,5,1226,6130
+22-08-2021,August,Dell XPS 13,Headphone,Asif,Cochin,43,755,32465
+27-04-2021,April,iPhone 11 Pro,Laptop,Bruce,Bangalore,13,652,8476
+23-05-2021,May,HP Envy x360,Laptop,Bruce,Bangalore,40,1172,46880
+09-06-2021,June,Dell XPS 13,Headphone,Tara,Bangalore,39,1180,46020
+05-07-2021,July,Apple AirPods Pro,Phone,Kate,Delhi,18,1057,19026
+30-09-2021,September,Dell XPS 13,Headphone,Giana,Cochin,27,413,11151
+06-08-2021,August,OnePlus Buds,Phone,Kate,Mumbai,20,187,3740
+09-08-2021,August,iPhone 11 Pro,Headphone,Giana,Cochin,49,1224,59976
+30-03-2021,March,HP Envy x360,Laptop,Aryan,Cochin,28,1531,42868
+08-01-2021,January,OnePlus Buds,Phone,Krish,Mumbai,10,693,6930
+30-08-2021,August,OnePlus Buds,Laptop,Aryan,Bangalore,1,948,948
+14-06-2021,June,iPhone 11 Pro,Laptop,Kate,Delhi,34,1395,47430
+18-02-2021,February,HP Envy x360,Phone,Krish,Bangalore,30,539,16170
+26-12-2021,December,iPhone 11 Pro,Phone,Asif,Cochin,2,585,1170
+30-04-2021,April,iPhone 11 Pro,Headphone,Kate,Bangalore,43,724,31132
+10-05-2021,May,Dell XPS 13,Laptop,Kate,Delhi,4,939,3756
+23-02-2021,February,iPhone 11 Pro,Phone,Krish,Delhi,36,1760,63360
+13-12-2021,December,HP Envy x360,Laptop,Aryan,Bangalore,12,1750,21000
+07-05-2021,May,HP Envy x360,Phone,Asif,Mumbai,19,812,15428
+16-10-2021,October,HP Envy x360,Phone,Krish,Cochin,31,1219,37789
+05-04-2021,April,Apple AirPods Pro,Headphone,Giana,Mumbai,32,1646,52672
+25-03-2021,March,HP Envy x360,Phone,Aryan,Mumbai,18,950,17100
+21-10-2021,October,HP Envy x360,Phone,Tara,Cochin,25,1872,46800
+11-07-2021,July,Apple AirPods Pro,Phone,Aryan,Delhi,45,801,36045
+20-03-2021,March,Apple AirPods Pro,Phone,Tara,Cochin,18,1533,27594
+08-08-2021,August,Dell XPS 13,Laptop,Krish,Bangalore,12,224,2688
+14-04-2021,April,OnePlus Buds,Headphone,Bruce,Bangalore,31,869,26939
+25-10-2021,October,iPhone 11 Pro,Phone,Krish,Bangalore,17,1085,18445
+13-12-2021,December,Dell XPS 13,Phone,Tara,Mumbai,14,715,10010
+21-10-2021,October,HP Envy x360,Laptop,Bruce,Bangalore,34,667,22678
+10-09-2021,September,iPhone 11 Pro,Headphone,Kate,Bangalore,10,593,5930
+06-04-2021,April,iPhone 11 Pro,Headphone,Krish,Mumbai,42,1268,53256
+12-02-2021,February,HP Envy x360,Headphone,Tara,Bangalore,48,733,35184
+12-09-2021,September,OnePlus Buds,Laptop,Kate,Mumbai,18,1726,31068
+18-04-2021,April,Apple AirPods Pro,Laptop,Krish,Cochin,42,182,7644
+11-09-2021,September,Apple AirPods Pro,Laptop,Asif,Mumbai,27,1634,44118
+08-05-2021,May,OnePlus Buds,Phone,Tara,Cochin,41,275,11275
+23-02-2021,February,OnePlus Buds,Laptop,Asif,Bangalore,12,768,9216
+11-05-2021,May,Dell XPS 13,Laptop,Krish,Cochin,8,1335,10680
+04-05-2021,May,Dell XPS 13,Phone,Giana,Delhi,31,1982,61442
+19-02-2021,February,HP Envy x360,Laptop,Bruce,Cochin,6,359,2154
+14-09-2021,September,HP Envy x360,Laptop,Giana,Delhi,35,1858,65030
+27-09-2021,September,Apple AirPods Pro,Headphone,Aryan,Cochin,15,1947,29205
+08-09-2021,September,HP Envy x360,Laptop,Giana,Bangalore,6,1441,8646
+24-11-2021,November,iPhone 11 Pro,Laptop,Tara,Cochin,25,1904,47600
+11-10-2021,October,Dell XPS 13,Laptop,Krish,Cochin,6,1010,6060
+10-08-2021,August,iPhone 11 Pro,Headphone,Kate,Mumbai,14,1663,23282
+17-11-2021,November,iPhone 11 Pro,Headphone,Krish,Bangalore,12,1449,17388
+03-11-2021,November,HP Envy x360,Laptop,Kate,Mumbai,46,1034,47564
+04-09-2021,September,Apple AirPods Pro,Laptop,Bruce,Bangalore,2,1431,2862
+10-08-2021,August,Apple AirPods Pro,Headphone,Kate,Mumbai,9,1104,9936
+14-04-2021,April,Apple AirPods Pro,Phone,Tara,Delhi,45,1680,75600
+26-02-2021,February,Dell XPS 13,Headphone,Aryan,Mumbai,27,890,24030
+08-12-2021,December,Dell XPS 13,Headphone,Tara,Bangalore,3,231,693
+01-11-2021,November,HP Envy x360,Headphone,Bruce,Delhi,3,1086,3258
+05-06-2021,June,Apple AirPods Pro,Laptop,Giana,Cochin,1,1435,1435
+24-10-2021,October,HP Envy x360,Headphone,Giana,Bangalore,21,1154,24234
+12-10-2021,October,Apple AirPods Pro,Phone,Aryan,Cochin,50,1945,97250
+18-04-2021,April,HP Envy x360,Phone,Giana,Bangalore,25,450,11250
+15-06-2021,June,iPhone 11 Pro,Laptop,Bruce,Cochin,2,129,258
+19-09-2021,September,Apple AirPods Pro,Phone,Krish,Delhi,21,561,11781
+19-10-2021,October,HP Envy x360,Headphone,Kate,Bangalore,27,775,20925
+09-05-2021,May,OnePlus Buds,Laptop,Tara,Delhi,43,1741,74863
+15-07-2021,July,Apple AirPods Pro,Phone,Bruce,Bangalore,9,141,1269
+03-02-2021,February,Dell XPS 13,Headphone,Asif,Mumbai,32,145,4640
+19-10-2021,October,OnePlus Buds,Laptop,Asif,Delhi,41,938,38458
+18-07-2021,July,Apple AirPods Pro,Phone,Bruce,Delhi,11,1845,20295
+09-11-2021,November,OnePlus Buds,Headphone,Kate,Delhi,32,998,31936
+04-02-2021,February,Dell XPS 13,Headphone,Aryan,Mumbai,14,1363,19082
+11-07-2021,July,Dell XPS 13,Phone,Kate,Bangalore,9,1416,12744
+15-04-2021,April,HP Envy x360,Headphone,Aryan,Bangalore,27,253,6831
+31-10-2021,October,iPhone 11 Pro,Headphone,Asif,Cochin,43,1519,65317
+11-12-2021,December,OnePlus Buds,Phone,Aryan,Bangalore,12,869,10428
+30-05-2021,May,Apple AirPods Pro,Phone,Bruce,Cochin,31,979,30349
+28-06-2021,June,HP Envy x360,Headphone,Tara,Mumbai,42,319,13398
+08-02-2021,February,HP Envy x360,Laptop,Bruce,Delhi,24,430,10320
+02-11-2021,November,Dell XPS 13,Headphone,Krish,Cochin,11,596,6556
+01-08-2021,August,OnePlus Buds,Headphone,Giana,Cochin,45,753,33885
+31-08-2021,August,HP Envy x360,Phone,Asif,Delhi,36,1969,70884
+15-08-2021,August,Dell XPS 13,Laptop,Asif,Bangalore,32,1412,45184
+20-01-2021,January,Apple AirPods Pro,Laptop,Aryan,Cochin,17,1188,20196
+11-07-2021,July,HP Envy x360,Headphone,Tara,Bangalore,32,1788,57216
+15-06-2021,June,OnePlus Buds,Headphone,Asif,Delhi,1,1688,1688
+08-09-2021,September,OnePlus Buds,Headphone,Bruce,Cochin,34,278,9452
+23-05-2021,May,Dell XPS 13,Laptop,Krish,Bangalore,6,529,3174
+04-08-2021,August,Apple AirPods Pro,Laptop,Aryan,Bangalore,36,1531,55116
+30-09-2021,September,OnePlus Buds,Laptop,Krish,Mumbai,38,1886,71668
+30-03-2021,March,HP Envy x360,Headphone,Aryan,Bangalore,32,1057,33824
+25-03-2021,March,HP Envy x360,Phone,Kate,Mumbai,33,1515,49995
+13-12-2021,December,Apple AirPods Pro,Laptop,Krish,Mumbai,35,312,10920
+15-10-2021,October,iPhone 11 Pro,Phone,Asif,Mumbai,22,680,14960
+16-02-2021,February,Apple AirPods Pro,Phone,Krish,Cochin,21,1342,28182
+23-10-2021,October,iPhone 11 Pro,Headphone,Kate,Cochin,48,1131,54288
+21-04-2021,April,Dell XPS 13,Phone,Krish,Bangalore,36,1716,61776
+11-02-2021,February,Apple AirPods Pro,Phone,Bruce,Mumbai,34,1190,40460
+28-07-2021,July,iPhone 11 Pro,Laptop,Aryan,Cochin,6,260,1560
+18-05-2021,May,iPhone 11 Pro,Laptop,Aryan,Cochin,45,181,8145
+14-01-2021,January,Apple AirPods Pro,Phone,Tara,Mumbai,17,516,8772
+18-10-2021,October,OnePlus Buds,Laptop,Tara,Bangalore,41,1233,50553
+13-08-2021,August,OnePlus Buds,Phone,Giana,Delhi,41,1030,42230
+15-10-2021,October,OnePlus Buds,Laptop,Krish,Cochin,4,150,600
+23-09-2021,September,OnePlus Buds,Headphone,Krish,Cochin,49,1308,64092
+16-02-2021,February,iPhone 11 Pro,Laptop,Aryan,Bangalore,1,347,347
+25-04-2021,April,Dell XPS 13,Headphone,Bruce,Bangalore,6,225,1350
+15-04-2021,April,Apple AirPods Pro,Headphone,Tara,Mumbai,6,408,2448
+14-12-2021,December,iPhone 11 Pro,Phone,Tara,Mumbai,34,1594,54196
+16-06-2021,June,Dell XPS 13,Laptop,Aryan,Delhi,13,581,7553
+10-12-2021,December,iPhone 11 Pro,Phone,Krish,Delhi,50,1132,56600
+21-05-2021,May,Dell XPS 13,Laptop,Aryan,Cochin,26,772,20072
+12-10-2021,October,OnePlus Buds,Headphone,Krish,Bangalore,39,1963,76557
+22-10-2021,October,OnePlus Buds,Headphone,Aryan,Cochin,46,1372,63112
+18-05-2021,May,OnePlus Buds,Headphone,Tara,Delhi,21,449,9429
+14-02-2021,February,Dell XPS 13,Phone,Kate,Bangalore,6,1878,11268
+11-02-2021,February,iPhone 11 Pro,Laptop,Asif,Cochin,28,1262,35336
+12-03-2021,March,Apple AirPods Pro,Headphone,Tara,Delhi,35,170,5950
+16-09-2021,September,Dell XPS 13,Headphone,Giana,Delhi,15,1699,25485
+26-11-2021,November,iPhone 11 Pro,Phone,Krish,Delhi,13,636,8268
+03-11-2021,November,OnePlus Buds,Phone,Bruce,Cochin,48,1667,80016
+22-03-2021,March,iPhone 11 Pro,Headphone,Giana,Bangalore,22,1787,39314
+27-04-2021,April,OnePlus Buds,Phone,Giana,Cochin,28,492,13776
+25-02-2021,February,HP Envy x360,Phone,Bruce,Cochin,39,328,12792
+22-09-2021,September,iPhone 11 Pro,Headphone,Asif,Cochin,11,712,7832
+08-03-2021,March,iPhone 11 Pro,Phone,Tara,Cochin,13,880,11440
+08-11-2021,November,OnePlus Buds,Phone,Tara,Mumbai,12,451,5412
+19-06-2021,June,Apple AirPods Pro,Laptop,Kate,Mumbai,37,1122,41514
+27-02-2021,February,Apple AirPods Pro,Phone,Asif,Mumbai,15,1116,16740
+22-07-2021,July,OnePlus Buds,Phone,Tara,Mumbai,25,189,4725
+23-12-2021,December,HP Envy x360,Headphone,Kate,Delhi,44,731,32164
+17-10-2021,October,iPhone 11 Pro,Headphone,Kate,Cochin,10,1662,16620
+10-12-2021,December,HP Envy x360,Phone,Aryan,Delhi,6,671,4026
+27-11-2021,November,Dell XPS 13,Laptop,Krish,Mumbai,44,1916,84304
+13-12-2021,December,iPhone 11 Pro,Headphone,Aryan,Delhi,39,1441,56199
+07-12-2021,December,Dell XPS 13,Laptop,Kate,Cochin,39,810,31590
+27-05-2021,May,Apple AirPods Pro,Phone,Aryan,Cochin,2,1701,3402
+26-08-2021,August,iPhone 11 Pro,Phone,Tara,Mumbai,22,175,3850
+13-12-2021,December,Dell XPS 13,Laptop,Kate,Delhi,20,1122,22440
+12-12-2021,December,HP Envy x360,Laptop,Asif,Bangalore,7,199,1393
+06-10-2021,October,HP Envy x360,Headphone,Giana,Delhi,11,616,6776
+12-11-2021,November,Dell XPS 13,Headphone,Asif,Delhi,38,1394,52972
+22-08-2021,August,HP Envy x360,Phone,Krish,Delhi,4,1975,7900
+08-09-2021,September,iPhone 11 Pro,Phone,Tara,Delhi,20,1161,23220
+19-02-2021,February,HP Envy x360,Headphone,Bruce,Delhi,17,1664,28288
+12-10-2021,October,iPhone 11 Pro,Headphone,Tara,Delhi,2,2000,4000
+08-07-2021,July,HP Envy x360,Headphone,Krish,Bangalore,20,1784,35680
+15-02-2021,February,OnePlus Buds,Laptop,Aryan,Cochin,16,1940,31040
+31-08-2021,August,OnePlus Buds,Phone,Giana,Cochin,44,789,34716
+17-01-2021,January,OnePlus Buds,Laptop,Krish,Mumbai,29,259,7511
+11-08-2021,August,Apple AirPods Pro,Headphone,Krish,Mumbai,27,897,24219
+04-01-2021,January,Apple AirPods Pro,Laptop,Aryan,Cochin,17,1598,27166
+28-10-2021,October,iPhone 11 Pro,Phone,Aryan,Bangalore,49,340,16660
+19-07-2021,July,OnePlus Buds,Headphone,Aryan,Delhi,49,202,9898
+16-11-2021,November,OnePlus Buds,Headphone,Tara,Mumbai,16,546,8736
+29-01-2021,January,Dell XPS 13,Laptop,Aryan,Cochin,27,652,17604
+14-11-2021,November,HP Envy x360,Phone,Kate,Cochin,22,1486,32692
+08-04-2021,April,Apple AirPods Pro,Laptop,Giana,Delhi,48,1578,75744
+26-10-2021,October,OnePlus Buds,Laptop,Krish,Cochin,34,889,30226
+20-05-2021,May,iPhone 11 Pro,Phone,Bruce,Delhi,46,1720,79120
+10-11-2021,November,Dell XPS 13,Headphone,Bruce,Mumbai,45,947,42615
+29-07-2021,July,HP Envy x360,Phone,Bruce,Bangalore,50,201,10050
+04-03-2021,March,HP Envy x360,Headphone,Krish,Bangalore,14,486,6804
+05-08-2021,August,Apple AirPods Pro,Phone,Krish,Cochin,40,245,9800
+03-10-2021,October,Dell XPS 13,Laptop,Bruce,Bangalore,36,578,20808
+02-06-2021,June,OnePlus Buds,Phone,Aryan,Cochin,28,1196,33488
+22-10-2021,October,HP Envy x360,Laptop,Krish,Mumbai,45,126,5670
+01-08-2021,August,Apple AirPods Pro,Laptop,Krish,Cochin,49,1366,66934
+13-06-2021,June,Apple AirPods Pro,Phone,Aryan,Bangalore,16,209,3344
+11-10-2021,October,HP Envy x360,Phone,Asif,Delhi,48,1266,60768
+22-12-2021,December,Apple AirPods Pro,Phone,Asif,Bangalore,39,1810,70590
+03-12-2021,December,OnePlus Buds,Phone,Asif,Mumbai,4,569,2276
+22-08-2021,August,HP Envy x360,Laptop,Krish,Bangalore,26,1737,45162
+14-07-2021,July,HP Envy x360,Headphone,Bruce,Delhi,46,1775,81650
+08-10-2021,October,Apple AirPods Pro,Laptop,Giana,Bangalore,42,930,39060
+18-02-2021,February,Apple AirPods Pro,Headphone,Aryan,Delhi,46,452,20792
+22-11-2021,November,HP Envy x360,Laptop,Krish,Bangalore,19,1016,19304
+08-04-2021,April,OnePlus Buds,Headphone,Giana,Delhi,19,1757,33383
+20-04-2021,April,OnePlus Buds,Laptop,Tara,Cochin,35,1141,39935
+26-03-2021,March,Apple AirPods Pro,Laptop,Asif,Cochin,38,903,34314
+29-01-2021,January,OnePlus Buds,Phone,Krish,Cochin,37,558,20646
+29-07-2021,July,HP Envy x360,Headphone,Krish,Cochin,15,408,6120
+01-10-2021,October,iPhone 11 Pro,Phone,Giana,Cochin,28,1427,39956
+07-06-2021,June,OnePlus Buds,Phone,Giana,Bangalore,15,1306,19590
+15-03-2021,March,iPhone 11 Pro,Headphone,Bruce,Delhi,6,233,1398
+11-01-2021,January,Dell XPS 13,Laptop,Giana,Bangalore,1,340,340
+08-09-2021,September,iPhone 11 Pro,Phone,Bruce,Bangalore,37,1991,73667
+17-04-2021,April,HP Envy x360,Laptop,Aryan,Cochin,7,172,1204
+09-01-2021,January,Dell XPS 13,Phone,Giana,Delhi,23,285,6555
+29-04-2021,April,Apple AirPods Pro,Laptop,Kate,Delhi,9,290,2610
+12-07-2021,July,Apple AirPods Pro,Phone,Tara,Delhi,39,1706,66534
+14-10-2021,October,HP Envy x360,Phone,Asif,Mumbai,29,723,20967
+25-05-2021,May,Apple AirPods Pro,Headphone,Aryan,Mumbai,15,1534,23010
+09-11-2021,November,iPhone 11 Pro,Laptop,Kate,Delhi,16,1672,26752
+21-02-2021,February,Dell XPS 13,Headphone,Asif,Delhi,42,448,18816
+11-04-2021,April,Apple AirPods Pro,Laptop,Kate,Delhi,34,442,15028
+30-10-2021,October,Dell XPS 13,Phone,Bruce,Cochin,40,984,39360
+16-05-2021,May,OnePlus Buds,Headphone,Asif,Mumbai,25,491,12275
+03-08-2021,August,OnePlus Buds,Headphone,Krish,Cochin,7,368,2576
+16-01-2021,January,Apple AirPods Pro,Laptop,Tara,Cochin,19,1206,22914
+24-08-2021,August,Dell XPS 13,Laptop,Tara,Bangalore,40,1497,59880
+17-07-2021,July,iPhone 11 Pro,Headphone,Kate,Delhi,22,1315,28930
+14-05-2021,May,OnePlus Buds,Phone,Asif,Mumbai,23,474,10902
+24-02-2021,February,HP Envy x360,Phone,Asif,Bangalore,39,495,19305
+01-03-2021,March,Apple AirPods Pro,Headphone,Aryan,Cochin,36,372,13392
+16-12-2021,December,Dell XPS 13,Headphone,Kate,Mumbai,45,884,39780
+24-03-2021,March,HP Envy x360,Phone,Tara,Cochin,21,1952,40992
+27-09-2021,September,iPhone 11 Pro,Laptop,Giana,Cochin,38,846,32148
+02-08-2021,August,HP Envy x360,Laptop,Asif,Cochin,20,204,4080
+18-01-2021,January,Dell XPS 13,Phone,Asif,Mumbai,34,1377,46818
+19-10-2021,October,HP Envy x360,Phone,Asif,Delhi,3,740,2220
+07-04-2021,April,OnePlus Buds,Headphone,Giana,Delhi,49,1463,71687
+30-04-2021,April,Dell XPS 13,Headphone,Aryan,Delhi,32,1011,32352
+11-04-2021,April,HP Envy x360,Laptop,Asif,Cochin,2,321,642
+21-11-2021,November,iPhone 11 Pro,Phone,Bruce,Delhi,13,1809,23517
+16-01-2021,January,OnePlus Buds,Laptop,Krish,Bangalore,17,1769,30073
+05-06-2021,June,HP Envy x360,Phone,Tara,Cochin,28,1387,38836
+20-10-2021,October,iPhone 11 Pro,Phone,Tara,Delhi,49,138,6762
+03-07-2021,July,HP Envy x360,Headphone,Krish,Bangalore,20,1674,33480
+18-01-2021,January,HP Envy x360,Laptop,Tara,Cochin,20,118,2360
+04-12-2021,December,Dell XPS 13,Laptop,Tara,Cochin,26,1778,46228
+06-10-2021,October,HP Envy x360,Laptop,Krish,Cochin,21,653,13713
+04-05-2021,May,Apple AirPods Pro,Headphone,Asif,Bangalore,5,321,1605
+19-10-2021,October,OnePlus Buds,Headphone,Tara,Mumbai,37,1544,57128
+28-11-2021,November,OnePlus Buds,Headphone,Kate,Bangalore,40,823,32920
+13-02-2021,February,Dell XPS 13,Phone,Krish,Delhi,11,393,4323
+05-11-2021,November,OnePlus Buds,Phone,Tara,Delhi,1,718,718
+21-12-2021,December,HP Envy x360,Laptop,Aryan,Bangalore,15,679,10185
+14-09-2021,September,Apple AirPods Pro,Headphone,Kate,Delhi,39,1961,76479
+15-10-2021,October,Dell XPS 13,Phone,Aryan,Delhi,38,1194,45372
+03-03-2021,March,iPhone 11 Pro,Laptop,Asif,Mumbai,19,1923,36537
+11-07-2021,July,iPhone 11 Pro,Phone,Aryan,Mumbai,7,320,2240
+25-06-2021,June,iPhone 11 Pro,Headphone,Krish,Bangalore,15,1133,16995
+02-03-2021,March,HP Envy x360,Headphone,Asif,Cochin,46,1907,87722
+06-03-2021,March,iPhone 11 Pro,Phone,Asif,Delhi,19,248,4712
+28-05-2021,May,OnePlus Buds,Headphone,Giana,Delhi,5,586,2930
+01-01-2022,January,OnePlus Buds,Phone,Tara,Bangalore,30,1389,41670
+13-06-2021,June,iPhone 11 Pro,Headphone,Aryan,Bangalore,6,268,1608
+03-05-2021,May,iPhone 11 Pro,Phone,Aryan,Delhi,19,1355,25745
+08-07-2021,July,Apple AirPods Pro,Laptop,Asif,Cochin,49,153,7497
+15-08-2021,August,Apple AirPods Pro,Phone,Krish,Bangalore,44,978,43032
+16-08-2021,August,iPhone 11 Pro,Laptop,Bruce,Delhi,38,1154,43852
+21-12-2021,December,HP Envy x360,Laptop,Krish,Bangalore,18,1259,22662
+03-11-2021,November,Dell XPS 13,Headphone,Giana,Cochin,4,1771,7084
+24-12-2021,December,Apple AirPods Pro,Laptop,Bruce,Cochin,34,605,20570
+12-01-2021,January,OnePlus Buds,Laptop,Kate,Mumbai,24,926,22224
+14-11-2021,November,iPhone 11 Pro,Laptop,Krish,Cochin,35,723,25305
+06-07-2021,July,OnePlus Buds,Phone,Kate,Bangalore,17,1294,21998
+01-04-2021,April,Dell XPS 13,Phone,Kate,Mumbai,8,876,7008
+07-12-2021,December,iPhone 11 Pro,Laptop,Tara,Cochin,19,1983,37677
+30-05-2021,May,iPhone 11 Pro,Laptop,Asif,Delhi,5,1441,7205
+11-10-2021,October,OnePlus Buds,Headphone,Tara,Cochin,7,935,6545
+27-01-2021,January,HP Envy x360,Headphone,Kate,Mumbai,35,1329,46515
+09-12-2021,December,OnePlus Buds,Headphone,Asif,Mumbai,47,697,32759
+23-12-2021,December,Apple AirPods Pro,Phone,Krish,Cochin,22,1082,23804
+17-09-2021,September,OnePlus Buds,Headphone,Tara,Cochin,31,1965,60915
+17-02-2021,February,Dell XPS 13,Phone,Tara,Cochin,24,166,3984
+05-01-2021,January,OnePlus Buds,Laptop,Krish,Mumbai,49,1307,64043
+16-05-2021,May,Dell XPS 13,Laptop,Kate,Delhi,22,1848,40656
+21-04-2021,April,HP Envy x360,Phone,Giana,Bangalore,30,419,12570
+23-03-2021,March,iPhone 11 Pro,Headphone,Tara,Bangalore,10,1876,18760
+21-07-2021,July,HP Envy x360,Phone,Tara,Mumbai,33,334,11022
+15-02-2021,February,Dell XPS 13,Headphone,Tara,Mumbai,7,1538,10766
+03-04-2021,April,HP Envy x360,Phone,Kate,Bangalore,18,1912,34416
+17-07-2021,July,Apple AirPods Pro,Phone,Aryan,Delhi,7,556,3892
+10-05-2021,May,iPhone 11 Pro,Headphone,Krish,Delhi,46,355,16330
+02-03-2021,March,Dell XPS 13,Laptop,Bruce,Delhi,30,787,23610
+22-04-2021,April,Apple AirPods Pro,Phone,Bruce,Cochin,24,1611,38664
+03-08-2021,August,OnePlus Buds,Laptop,Kate,Delhi,34,311,10574
+04-04-2021,April,iPhone 11 Pro,Headphone,Aryan,Bangalore,48,463,22224
+26-03-2021,March,Apple AirPods Pro,Headphone,Krish,Mumbai,4,489,1956
+12-08-2021,August,OnePlus Buds,Laptop,Krish,Cochin,13,127,1651
+04-07-2021,July,iPhone 11 Pro,Phone,Asif,Cochin,34,1576,53584
+23-07-2021,July,Apple AirPods Pro,Laptop,Aryan,Mumbai,19,1336,25384
+13-02-2021,February,iPhone 11 Pro,Laptop,Kate,Mumbai,22,824,18128
+10-11-2021,November,HP Envy x360,Phone,Krish,Delhi,26,237,6162
+21-07-2021,July,HP Envy x360,Headphone,Krish,Mumbai,37,447,16539
+28-11-2021,November,HP Envy x360,Headphone,Krish,Mumbai,6,846,5076
+19-11-2021,November,OnePlus Buds,Headphone,Asif,Delhi,12,1149,13788
+24-07-2021,July,iPhone 11 Pro,Headphone,Kate,Cochin,1,119,119
+24-08-2021,August,HP Envy x360,Laptop,Kate,Cochin,25,431,10775
+03-03-2021,March,Apple AirPods Pro,Laptop,Kate,Bangalore,34,1211,41174
+01-12-2021,December,HP Envy x360,Laptop,Giana,Cochin,23,652,14996
+17-01-2021,January,Apple AirPods Pro,Headphone,Krish,Mumbai,2,1688,3376
+06-05-2021,May,OnePlus Buds,Laptop,Kate,Delhi,38,1157,43966
+13-04-2021,April,HP Envy x360,Laptop,Giana,Delhi,18,830,14940
+27-12-2021,December,Dell XPS 13,Phone,Tara,Bangalore,48,112,5376
+25-12-2021,December,HP Envy x360,Headphone,Krish,Mumbai,21,379,7959
+06-09-2021,September,Dell XPS 13,Phone,Bruce,Mumbai,37,404,14948
+13-01-2021,January,Dell XPS 13,Laptop,Tara,Mumbai,8,1956,15648
+04-06-2021,June,OnePlus Buds,Laptop,Bruce,Mumbai,2,955,1910
+02-04-2021,April,Apple AirPods Pro,Laptop,Asif,Bangalore,36,1001,36036
+09-02-2021,February,HP Envy x360,Phone,Tara,Cochin,26,301,7826
+22-03-2021,March,iPhone 11 Pro,Laptop,Aryan,Cochin,33,1699,56067
+12-01-2021,January,HP Envy x360,Phone,Giana,Delhi,31,104,3224
+20-06-2021,June,HP Envy x360,Phone,Kate,Bangalore,13,168,2184
+11-11-2021,November,iPhone 11 Pro,Phone,Krish,Delhi,12,614,7368
+11-06-2021,June,OnePlus Buds,Headphone,Giana,Mumbai,25,1811,45275
+20-11-2021,November,OnePlus Buds,Headphone,Krish,Bangalore,29,1537,44573
+26-03-2021,March,HP Envy x360,Laptop,Tara,Cochin,50,1064,53200
+02-02-2021,February,iPhone 11 Pro,Phone,Kate,Bangalore,37,927,34299
+14-09-2021,September,OnePlus Buds,Headphone,Asif,Mumbai,12,131,1572
+13-02-2021,February,iPhone 11 Pro,Phone,Aryan,Mumbai,16,1318,21088
+21-04-2021,April,HP Envy x360,Headphone,Giana,Mumbai,27,1739,46953
+20-06-2021,June,Dell XPS 13,Phone,Kate,Mumbai,1,1235,1235
+31-12-2021,December,HP Envy x360,Phone,Asif,Cochin,22,1859,40898
+11-07-2021,July,iPhone 11 Pro,Phone,Kate,Bangalore,36,419,15084
+15-04-2021,April,OnePlus Buds,Laptop,Kate,Cochin,14,404,5656
+18-04-2021,April,iPhone 11 Pro,Headphone,Asif,Cochin,5,1248,6240
+29-12-2021,December,Apple AirPods Pro,Phone,Krish,Bangalore,8,891,7128
+05-11-2021,November,HP Envy x360,Phone,Aryan,Mumbai,18,140,2520
+03-03-2021,March,HP Envy x360,Phone,Tara,Delhi,12,1623,19476
+04-03-2021,March,iPhone 11 Pro,Laptop,Kate,Mumbai,45,200,9000
+30-07-2021,July,iPhone 11 Pro,Laptop,Tara,Bangalore,37,1651,61087
+07-03-2021,March,Dell XPS 13,Phone,Bruce,Mumbai,13,510,6630
+10-09-2021,September,Dell XPS 13,Phone,Bruce,Bangalore,8,121,968
+07-10-2021,October,Apple AirPods Pro,Laptop,Giana,Cochin,9,1522,13698
+22-05-2021,May,HP Envy x360,Laptop,Bruce,Cochin,13,553,7189
+08-09-2021,September,Dell XPS 13,Phone,Bruce,Mumbai,25,1895,47375
+10-10-2021,October,HP Envy x360,Phone,Bruce,Cochin,23,1913,43999
+28-11-2021,November,Apple AirPods Pro,Laptop,Kate,Bangalore,32,858,27456
+26-02-2021,February,Apple AirPods Pro,Phone,Bruce,Cochin,17,567,9639
+20-05-2021,May,HP Envy x360,Laptop,Kate,Delhi,14,982,13748
+02-05-2021,May,Apple AirPods Pro,Headphone,Kate,Bangalore,47,739,34733
+12-09-2021,September,OnePlus Buds,Laptop,Tara,Delhi,28,1819,50932
+23-03-2021,March,iPhone 11 Pro,Laptop,Bruce,Cochin,45,1545,69525
+12-02-2021,February,HP Envy x360,Phone,Krish,Delhi,13,223,2899
+20-09-2021,September,iPhone 11 Pro,Laptop,Bruce,Mumbai,28,406,11368
+14-12-2021,December,Apple AirPods Pro,Phone,Krish,Bangalore,44,1760,77440
+13-09-2021,September,iPhone 11 Pro,Headphone,Krish,Bangalore,34,762,25908
+13-10-2021,October,iPhone 11 Pro,Phone,Giana,Cochin,36,1613,58068
+29-03-2021,March,OnePlus Buds,Laptop,Tara,Bangalore,36,1778,64008
+28-11-2021,November,HP Envy x360,Laptop,Bruce,Delhi,39,1647,64233
+26-04-2021,April,OnePlus Buds,Laptop,Giana,Cochin,46,677,31142
+14-11-2021,November,HP Envy x360,Phone,Krish,Delhi,31,1069,33139
+22-10-2021,October,Apple AirPods Pro,Phone,Giana,Mumbai,44,496,21824
+05-12-2021,December,Dell XPS 13,Headphone,Giana,Bangalore,44,484,21296
+22-04-2021,April,HP Envy x360,Headphone,Tara,Bangalore,42,1639,68838
+31-03-2021,March,HP Envy x360,Phone,Aryan,Delhi,10,227,2270
+19-03-2021,March,OnePlus Buds,Laptop,Giana,Delhi,46,1464,67344
+09-10-2021,October,Apple AirPods Pro,Headphone,Tara,Cochin,43,1159,49837
+11-03-2021,March,iPhone 11 Pro,Laptop,Krish,Cochin,12,758,9096
+22-08-2021,August,Dell XPS 13,Headphone,Aryan,Mumbai,44,1076,47344
+03-03-2021,March,iPhone 11 Pro,Laptop,Giana,Bangalore,37,1183,43771
+19-09-2021,September,HP Envy x360,Laptop,Tara,Mumbai,30,1740,52200
+02-04-2021,April,Apple AirPods Pro,Headphone,Giana,Mumbai,23,691,15893
+16-10-2021,October,HP Envy x360,Phone,Aryan,Mumbai,14,873,12222
+21-08-2021,August,OnePlus Buds,Phone,Tara,Cochin,40,830,33200
+15-07-2021,July,Dell XPS 13,Headphone,Tara,Bangalore,50,1301,65050
+01-01-2022,January,HP Envy x360,Phone,Bruce,Delhi,40,866,34640
+21-06-2021,June,iPhone 11 Pro,Phone,Bruce,Bangalore,38,1189,45182
+09-10-2021,October,HP Envy x360,Phone,Giana,Delhi,37,1311,48507
+16-03-2021,March,OnePlus Buds,Headphone,Asif,Cochin,44,298,13112
+27-12-2021,December,Dell XPS 13,Laptop,Aryan,Cochin,23,1076,24748
+16-12-2021,December,HP Envy x360,Headphone,Aryan,Delhi,39,344,13416
+28-09-2021,September,HP Envy x360,Laptop,Kate,Bangalore,22,594,13068
+29-09-2021,September,HP Envy x360,Headphone,Giana,Mumbai,4,298,1192
+18-09-2021,September,OnePlus Buds,Headphone,Krish,Bangalore,20,1474,29480
+04-02-2021,February,iPhone 11 Pro,Headphone,Krish,Mumbai,43,589,25327
+21-07-2021,July,OnePlus Buds,Headphone,Aryan,Cochin,49,317,15533
+30-05-2021,May,Apple AirPods Pro,Laptop,Giana,Bangalore,35,1894,66290
+09-11-2021,November,Dell XPS 13,Phone,Bruce,Bangalore,41,1717,70397
+26-12-2021,December,OnePlus Buds,Headphone,Asif,Cochin,21,1369,28749
+06-10-2021,October,HP Envy x360,Headphone,Bruce,Delhi,13,1734,22542
+04-10-2021,October,Apple AirPods Pro,Laptop,Krish,Cochin,3,466,1398
+12-06-2021,June,OnePlus Buds,Laptop,Kate,Cochin,41,342,14022
+07-02-2021,February,Apple AirPods Pro,Laptop,Asif,Bangalore,10,123,1230
+21-09-2021,September,Apple AirPods Pro,Headphone,Asif,Bangalore,1,1748,1748
+18-06-2021,June,HP Envy x360,Headphone,Kate,Bangalore,5,691,3455
+03-10-2021,October,Apple AirPods Pro,Headphone,Aryan,Mumbai,24,844,20256
+07-01-2021,January,Dell XPS 13,Phone,Asif,Mumbai,43,1705,73315
+26-03-2021,March,OnePlus Buds,Laptop,Tara,Bangalore,10,764,7640
+15-01-2021,January,Apple AirPods Pro,Laptop,Asif,Cochin,3,1704,5112
+02-09-2021,September,OnePlus Buds,Phone,Asif,Cochin,47,1695,79665
+27-11-2021,November,OnePlus Buds,Laptop,Kate,Bangalore,34,667,22678
+19-02-2021,February,Apple AirPods Pro,Phone,Krish,Cochin,27,1927,52029
+05-02-2021,February,Apple AirPods Pro,Headphone,Krish,Mumbai,28,1188,33264
+07-10-2021,October,HP Envy x360,Phone,Giana,Cochin,21,1199,25179
+10-06-2021,June,Apple AirPods Pro,Laptop,Aryan,Bangalore,19,1488,28272
+14-10-2021,October,OnePlus Buds,Phone,Kate,Delhi,18,1377,24786
+29-06-2021,June,Apple AirPods Pro,Laptop,Krish,Bangalore,9,559,5031
+16-10-2021,October,OnePlus Buds,Laptop,Aryan,Bangalore,7,208,1456
+21-01-2021,January,Apple AirPods Pro,Laptop,Asif,Delhi,8,977,7816
+25-10-2021,October,Apple AirPods Pro,Laptop,Asif,Bangalore,4,1615,6460
+18-04-2021,April,iPhone 11 Pro,Laptop,Bruce,Bangalore,10,1945,19450
+02-09-2021,September,HP Envy x360,Laptop,Giana,Cochin,24,1615,38760
+28-05-2021,May,Apple AirPods Pro,Laptop,Krish,Bangalore,50,378,18900
+03-02-2021,February,HP Envy x360,Headphone,Bruce,Mumbai,3,1929,5787
+08-04-2021,April,Dell XPS 13,Phone,Aryan,Mumbai,18,1836,33048
+02-09-2021,September,HP Envy x360,Headphone,Asif,Mumbai,31,1453,45043
+06-01-2021,January,HP Envy x360,Laptop,Kate,Cochin,24,808,19392
+05-10-2021,October,iPhone 11 Pro,Laptop,Aryan,Bangalore,14,290,4060
+30-06-2021,June,Apple AirPods Pro,Headphone,Asif,Mumbai,42,1694,71148
+08-09-2021,September,Dell XPS 13,Headphone,Kate,Delhi,7,1859,13013
+28-12-2021,December,HP Envy x360,Laptop,Krish,Delhi,45,1517,68265
+15-09-2021,September,OnePlus Buds,Headphone,Aryan,Cochin,39,1512,58968
+27-09-2021,September,Dell XPS 13,Laptop,Krish,Cochin,38,139,5282
+15-06-2021,June,iPhone 11 Pro,Headphone,Krish,Delhi,12,1561,18732
+01-02-2021,February,iPhone 11 Pro,Laptop,Asif,Cochin,31,1556,48236
+28-03-2021,March,OnePlus Buds,Phone,Bruce,Cochin,16,1345,21520
+02-11-2021,November,OnePlus Buds,Laptop,Krish,Mumbai,3,1218,3654
+21-06-2021,June,OnePlus Buds,Headphone,Asif,Mumbai,29,1391,40339
+13-05-2021,May,OnePlus Buds,Headphone,Bruce,Cochin,47,1200,56400
+27-10-2021,October,Apple AirPods Pro,Phone,Tara,Mumbai,28,415,11620
+08-10-2021,October,OnePlus Buds,Laptop,Kate,Delhi,35,1951,68285
+21-08-2021,August,OnePlus Buds,Headphone,Krish,Bangalore,13,923,11999
+06-03-2021,March,Dell XPS 13,Headphone,Giana,Mumbai,44,1799,79156
+28-03-2021,March,iPhone 11 Pro,Phone,Asif,Bangalore,50,1224,61200
+28-06-2021,June,Dell XPS 13,Headphone,Giana,Delhi,27,1235,33345
+04-11-2021,November,iPhone 11 Pro,Headphone,Kate,Cochin,27,294,7938
+13-08-2021,August,iPhone 11 Pro,Phone,Aryan,Mumbai,9,509,4581
+09-08-2021,August,iPhone 11 Pro,Headphone,Tara,Mumbai,10,566,5660
+07-12-2021,December,HP Envy x360,Phone,Giana,Mumbai,42,444,18648
+29-11-2021,November,Dell XPS 13,Phone,Tara,Cochin,42,1625,68250
+22-06-2021,June,Apple AirPods Pro,Phone,Krish,Cochin,40,1980,79200
+09-01-2021,January,iPhone 11 Pro,Phone,Asif,Cochin,26,1198,31148
+11-01-2021,January,Apple AirPods Pro,Headphone,Kate,Mumbai,47,1256,59032
+13-04-2021,April,Apple AirPods Pro,Headphone,Asif,Cochin,18,494,8892
+16-06-2021,June,HP Envy x360,Phone,Aryan,Cochin,25,148,3700
+23-09-2021,September,iPhone 11 Pro,Headphone,Giana,Mumbai,23,627,14421
+31-03-2021,March,iPhone 11 Pro,Phone,Asif,Delhi,44,1477,64988
+10-04-2021,April,HP Envy x360,Laptop,Asif,Mumbai,26,556,14456
+13-02-2021,February,Dell XPS 13,Headphone,Giana,Cochin,29,593,17197
+29-09-2021,September,Dell XPS 13,Laptop,Giana,Mumbai,49,1745,85505
+08-08-2021,August,Dell XPS 13,Phone,Krish,Bangalore,5,1731,8655
+09-02-2021,February,OnePlus Buds,Laptop,Krish,Delhi,11,1076,11836
+25-11-2021,November,OnePlus Buds,Laptop,Aryan,Cochin,26,1525,39650
+01-12-2021,December,Apple AirPods Pro,Phone,Giana,Cochin,39,1065,41535
+20-02-2021,February,Apple AirPods Pro,Laptop,Kate,Cochin,41,1439,58999
+10-02-2021,February,HP Envy x360,Phone,Giana,Mumbai,7,127,889
+16-07-2021,July,iPhone 11 Pro,Laptop,Aryan,Delhi,3,716,2148
+01-01-2021,January,OnePlus Buds,Headphone,Aryan,Mumbai,32,1306,41792
+23-03-2021,March,Apple AirPods Pro,Laptop,Bruce,Mumbai,17,171,2907
+21-06-2021,June,OnePlus Buds,Laptop,Bruce,Bangalore,50,1433,71650
+28-03-2021,March,OnePlus Buds,Phone,Asif,Delhi,13,1358,17654
+24-09-2021,September,Apple AirPods Pro,Laptop,Kate,Mumbai,14,1180,16520
+21-08-2021,August,Dell XPS 13,Laptop,Kate,Delhi,21,309,6489
+10-05-2021,May,iPhone 11 Pro,Phone,Tara,Cochin,48,101,4848
+23-10-2021,October,Dell XPS 13,Phone,Tara,Bangalore,5,937,4685
+04-06-2021,June,OnePlus Buds,Laptop,Giana,Bangalore,11,1326,14586
+09-11-2021,November,iPhone 11 Pro,Laptop,Kate,Delhi,29,743,21547
+29-10-2021,October,OnePlus Buds,Laptop,Asif,Bangalore,7,852,5964
+09-12-2021,December,Apple AirPods Pro,Laptop,Kate,Mumbai,11,879,9669
+07-12-2021,December,Dell XPS 13,Phone,Giana,Mumbai,7,1282,8974
+19-04-2021,April,HP Envy x360,Laptop,Krish,Delhi,39,1652,64428
+01-11-2021,November,iPhone 11 Pro,Laptop,Bruce,Bangalore,23,1748,40204
+11-01-2021,January,OnePlus Buds,Laptop,Kate,Mumbai,47,1037,48739
+15-08-2021,August,Apple AirPods Pro,Phone,Kate,Cochin,21,1445,30345
+28-12-2021,December,Dell XPS 13,Phone,Tara,Cochin,22,229,5038
+14-02-2021,February,iPhone 11 Pro,Headphone,Giana,Mumbai,22,348,7656
+24-04-2021,April,Apple AirPods Pro,Phone,Asif,Delhi,13,295,3835
+27-02-2021,February,iPhone 11 Pro,Headphone,Bruce,Delhi,36,660,23760
+23-11-2021,November,OnePlus Buds,Laptop,Krish,Cochin,47,885,41595
+25-01-2021,January,Apple AirPods Pro,Phone,Bruce,Mumbai,2,158,316
+18-04-2021,April,Apple AirPods Pro,Phone,Tara,Cochin,40,331,13240
+09-12-2021,December,iPhone 11 Pro,Headphone,Krish,Cochin,36,1820,65520
+07-04-2021,April,HP Envy x360,Laptop,Asif,Delhi,32,1607,51424
+19-12-2021,December,iPhone 11 Pro,Laptop,Giana,Delhi,4,649,2596
+27-05-2021,May,OnePlus Buds,Laptop,Kate,Cochin,22,114,2508
+16-05-2021,May,HP Envy x360,Headphone,Tara,Delhi,18,828,14904
+01-10-2021,October,OnePlus Buds,Headphone,Tara,Bangalore,46,308,14168
+15-05-2021,May,HP Envy x360,Phone,Asif,Mumbai,15,941,14115
+12-01-2021,January,OnePlus Buds,Headphone,Tara,Cochin,36,1553,55908
+18-06-2021,June,OnePlus Buds,Laptop,Krish,Delhi,15,1079,16185
+06-08-2021,August,Apple AirPods Pro,Laptop,Giana,Mumbai,22,1090,23980
+30-09-2021,September,HP Envy x360,Headphone,Bruce,Cochin,50,1487,74350
+10-09-2021,September,Apple AirPods Pro,Headphone,Aryan,Cochin,46,283,13018
+27-04-2021,April,iPhone 11 Pro,Phone,Tara,Bangalore,33,1811,59763
+10-10-2021,October,Dell XPS 13,Phone,Bruce,Delhi,45,1433,64485
+24-11-2021,November,Apple AirPods Pro,Laptop,Tara,Cochin,44,1456,64064
+09-08-2021,August,OnePlus Buds,Phone,Asif,Cochin,21,1878,39438
+22-05-2021,May,Apple AirPods Pro,Headphone,Giana,Delhi,25,601,15025
+23-07-2021,July,HP Envy x360,Laptop,Krish,Delhi,46,288,13248
+03-12-2021,December,OnePlus Buds,Headphone,Tara,Cochin,45,214,9630
+06-06-2021,June,Apple AirPods Pro,Laptop,Bruce,Delhi,27,1865,50355
+19-08-2021,August,iPhone 11 Pro,Laptop,Aryan,Mumbai,42,104,4368
+02-04-2021,April,HP Envy x360,Headphone,Krish,Delhi,33,1793,59169
+25-04-2021,April,Apple AirPods Pro,Headphone,Kate,Bangalore,19,440,8360
+17-08-2021,August,iPhone 11 Pro,Laptop,Bruce,Mumbai,5,1554,7770
+12-04-2021,April,HP Envy x360,Laptop,Aryan,Bangalore,25,1015,25375
+12-04-2021,April,Apple AirPods Pro,Headphone,Aryan,Bangalore,39,367,14313
+25-03-2021,March,Dell XPS 13,Phone,Bruce,Bangalore,6,1858,11148
+26-11-2021,November,iPhone 11 Pro,Phone,Tara,Mumbai,11,856,9416
+02-12-2021,December,OnePlus Buds,Phone,Asif,Mumbai,9,1366,12294
+13-03-2021,March,iPhone 11 Pro,Phone,Tara,Delhi,19,1759,33421
+15-10-2021,October,HP Envy x360,Headphone,Bruce,Mumbai,48,852,40896
+05-09-2021,September,Apple AirPods Pro,Laptop,Tara,Delhi,23,428,9844
+16-07-2021,July,Apple AirPods Pro,Headphone,Giana,Cochin,49,1363,66787
+25-01-2021,January,OnePlus Buds,Phone,Aryan,Cochin,42,305,12810
+29-08-2021,August,HP Envy x360,Laptop,Kate,Delhi,50,124,6200
+17-06-2021,June,OnePlus Buds,Headphone,Giana,Bangalore,27,1167,31509
+12-04-2021,April,HP Envy x360,Headphone,Asif,Mumbai,32,577,18464
+27-06-2021,June,iPhone 11 Pro,Headphone,Aryan,Mumbai,50,807,40350
+25-01-2021,January,OnePlus Buds,Laptop,Giana,Cochin,44,1741,76604
+31-08-2021,August,Dell XPS 13,Phone,Krish,Delhi,44,1430,62920
+23-02-2021,February,Dell XPS 13,Headphone,Asif,Mumbai,17,1399,23783
+30-09-2021,September,OnePlus Buds,Phone,Krish,Bangalore,44,183,8052
+19-01-2021,January,OnePlus Buds,Headphone,Tara,Delhi,12,1692,20304
+06-04-2021,April,HP Envy x360,Phone,Asif,Delhi,47,1067,50149
+31-01-2021,January,Apple AirPods Pro,Laptop,Krish,Cochin,14,111,1554
+05-07-2021,July,Dell XPS 13,Phone,Krish,Bangalore,24,1469,35256
+22-07-2021,July,Dell XPS 13,Headphone,Giana,Cochin,29,1969,57101
+07-07-2021,July,iPhone 11 Pro,Headphone,Bruce,Mumbai,32,534,17088
+01-07-2021,July,OnePlus Buds,Laptop,Krish,Bangalore,28,601,16828
+10-02-2021,February,Dell XPS 13,Laptop,Aryan,Delhi,20,391,7820
+08-06-2021,June,Dell XPS 13,Laptop,Asif,Mumbai,1,1008,1008
+11-01-2021,January,Dell XPS 13,Laptop,Kate,Bangalore,14,352,4928
+08-12-2021,December,iPhone 11 Pro,Phone,Aryan,Bangalore,39,751,29289
+05-09-2021,September,HP Envy x360,Headphone,Bruce,Cochin,45,140,6300
+30-04-2021,April,OnePlus Buds,Laptop,Aryan,Delhi,38,563,21394
+02-01-2021,January,Dell XPS 13,Phone,Giana,Delhi,30,254,7620
+15-10-2021,October,HP Envy x360,Phone,Giana,Cochin,3,1967,5901
+07-10-2021,October,OnePlus Buds,Headphone,Kate,Mumbai,41,157,6437
+07-03-2021,March,iPhone 11 Pro,Laptop,Asif,Bangalore,13,1278,16614
+16-05-2021,May,iPhone 11 Pro,Phone,Giana,Cochin,1,1027,1027
+01-04-2021,April,Dell XPS 13,Phone,Krish,Delhi,3,1746,5238
+26-02-2021,February,Apple AirPods Pro,Headphone,Asif,Mumbai,13,771,10023
+02-05-2021,May,OnePlus Buds,Laptop,Asif,Delhi,15,981,14715
+01-06-2021,June,OnePlus Buds,Headphone,Giana,Delhi,25,887,22175
+10-01-2021,January,iPhone 11 Pro,Phone,Giana,Cochin,36,110,3960
+21-12-2021,December,HP Envy x360,Laptop,Bruce,Bangalore,15,1020,15300
+14-08-2021,August,HP Envy x360,Laptop,Aryan,Cochin,43,998,42914
+04-10-2021,October,Apple AirPods Pro,Headphone,Aryan,Delhi,30,1885,56550
+15-02-2021,February,Dell XPS 13,Headphone,Asif,Mumbai,31,1256,38936
+12-02-2021,February,iPhone 11 Pro,Laptop,Krish,Bangalore,1,1796,1796
+21-05-2021,May,iPhone 11 Pro,Headphone,Kate,Delhi,6,356,2136
+14-08-2021,August,OnePlus Buds,Headphone,Tara,Delhi,2,694,1388
+17-02-2021,February,iPhone 11 Pro,Headphone,Kate,Bangalore,9,462,4158
+01-02-2021,February,iPhone 11 Pro,Headphone,Tara,Bangalore,3,416,1248
+09-02-2021,February,Apple AirPods Pro,Headphone,Tara,Delhi,5,910,4550
+15-08-2021,August,HP Envy x360,Phone,Krish,Mumbai,34,512,17408
+08-05-2021,May,Dell XPS 13,Headphone,Tara,Cochin,45,1636,73620
+20-03-2021,March,HP Envy x360,Headphone,Krish,Delhi,33,803,26499
+19-12-2021,December,iPhone 11 Pro,Headphone,Bruce,Cochin,36,562,20232
+27-05-2021,May,Apple AirPods Pro,Laptop,Asif,Bangalore,12,472,5664
+04-04-2021,April,iPhone 11 Pro,Phone,Bruce,Bangalore,5,250,1250
+20-10-2021,October,OnePlus Buds,Phone,Tara,Cochin,9,972,8748
+08-01-2021,January,iPhone 11 Pro,Laptop,Asif,Mumbai,15,508,7620
+20-11-2021,November,Dell XPS 13,Phone,Tara,Cochin,25,584,14600
+11-11-2021,November,OnePlus Buds,Headphone,Giana,Bangalore,23,1221,28083
+03-05-2021,May,Apple AirPods Pro,Phone,Asif,Delhi,24,917,22008
+06-11-2021,November,Dell XPS 13,Laptop,Tara,Cochin,23,1084,24932
+08-12-2021,December,Dell XPS 13,Laptop,Krish,Bangalore,37,1802,66674
+23-05-2021,May,Dell XPS 13,Laptop,Kate,Cochin,30,881,26430
+03-05-2021,May,Dell XPS 13,Headphone,Tara,Bangalore,48,1379,66192
+10-09-2021,September,Apple AirPods Pro,Headphone,Kate,Delhi,9,637,5733
+11-04-2021,April,Dell XPS 13,Phone,Aryan,Mumbai,12,695,8340
+20-04-2021,April,OnePlus Buds,Phone,Krish,Mumbai,45,1745,78525
+17-10-2021,October,Apple AirPods Pro,Headphone,Bruce,Mumbai,14,1094,15316
+08-10-2021,October,iPhone 11 Pro,Phone,Tara,Mumbai,41,442,18122
+01-08-2021,August,iPhone 11 Pro,Laptop,Asif,Delhi,23,1154,26542
+24-11-2021,November,Apple AirPods Pro,Laptop,Aryan,Mumbai,16,1213,19408
+29-04-2021,April,OnePlus Buds,Laptop,Krish,Delhi,28,192,5376
+08-10-2021,October,iPhone 11 Pro,Phone,Krish,Mumbai,15,1520,22800
+11-06-2021,June,HP Envy x360,Phone,Aryan,Delhi,47,681,32007
+19-01-2021,January,HP Envy x360,Phone,Tara,Delhi,36,1379,49644
+24-01-2021,January,iPhone 11 Pro,Headphone,Tara,Bangalore,17,424,7208
+28-02-2021,February,iPhone 11 Pro,Headphone,Giana,Bangalore,31,309,9579
+29-04-2021,April,OnePlus Buds,Phone,Kate,Bangalore,34,1302,44268
+05-09-2021,September,iPhone 11 Pro,Laptop,Aryan,Bangalore,30,1207,36210
+20-09-2021,September,HP Envy x360,Phone,Giana,Delhi,11,1658,18238
+22-08-2021,August,OnePlus Buds,Phone,Aryan,Bangalore,16,977,15632
+14-08-2021,August,Apple AirPods Pro,Laptop,Krish,Delhi,39,1121,43719
+11-04-2021,April,Apple AirPods Pro,Headphone,Tara,Cochin,47,979,46013
+17-01-2021,January,Apple AirPods Pro,Laptop,Aryan,Cochin,16,1538,24608
+20-12-2021,December,Apple AirPods Pro,Phone,Asif,Delhi,43,1306,56158
+22-08-2021,August,OnePlus Buds,Headphone,Kate,Delhi,20,1862,37240
+04-09-2021,September,Dell XPS 13,Phone,Asif,Cochin,25,868,21700
+08-11-2021,November,iPhone 11 Pro,Laptop,Bruce,Cochin,20,1818,36360
+21-02-2021,February,Dell XPS 13,Headphone,Kate,Cochin,3,660,1980
+29-11-2021,November,Dell XPS 13,Laptop,Krish,Delhi,31,794,24614
+29-05-2021,May,Dell XPS 13,Laptop,Bruce,Bangalore,10,1194,11940
+08-11-2021,November,HP Envy x360,Phone,Tara,Bangalore,40,1758,70320
+31-10-2021,October,HP Envy x360,Laptop,Bruce,Cochin,35,1893,66255
+29-08-2021,August,HP Envy x360,Phone,Asif,Cochin,27,1877,50679
+26-08-2021,August,Apple AirPods Pro,Headphone,Asif,Delhi,45,1839,82755
+24-01-2021,January,OnePlus Buds,Laptop,Bruce,Delhi,22,1227,26994
+25-03-2021,March,OnePlus Buds,Laptop,Bruce,Delhi,12,129,1548
+03-11-2021,November,iPhone 11 Pro,Phone,Bruce,Cochin,49,1651,80899
+07-08-2021,August,HP Envy x360,Headphone,Asif,Delhi,25,1809,45225
+02-03-2021,March,Apple AirPods Pro,Laptop,Aryan,Bangalore,33,1754,57882
+23-11-2021,November,OnePlus Buds,Headphone,Bruce,Bangalore,44,850,37400
+20-08-2021,August,OnePlus Buds,Phone,Aryan,Delhi,18,559,10062
+01-12-2021,December,Apple AirPods Pro,Laptop,Aryan,Delhi,31,144,4464
+07-09-2021,September,HP Envy x360,Phone,Bruce,Mumbai,1,389,389
+29-08-2021,August,Apple AirPods Pro,Phone,Aryan,Mumbai,4,1877,7508
+18-05-2021,May,Apple AirPods Pro,Phone,Krish,Bangalore,45,240,10800
+23-05-2021,May,OnePlus Buds,Phone,Bruce,Delhi,30,583,17490
+31-08-2021,August,HP Envy x360,Headphone,Giana,Mumbai,29,1445,41905
+07-09-2021,September,iPhone 11 Pro,Laptop,Krish,Bangalore,1,1352,1352
+26-06-2021,June,Apple AirPods Pro,Laptop,Krish,Cochin,43,221,9503
+22-10-2021,October,HP Envy x360,Phone,Krish,Delhi,30,1999,59970
+16-05-2021,May,HP Envy x360,Laptop,Giana,Mumbai,6,311,1866
+06-12-2021,December,OnePlus Buds,Phone,Asif,Cochin,16,248,3968
+01-01-2022,January,Dell XPS 13,Laptop,Bruce,Cochin,41,358,14678
+02-12-2021,December,Dell XPS 13,Laptop,Kate,Mumbai,15,789,11835
+28-09-2021,September,iPhone 11 Pro,Laptop,Bruce,Bangalore,27,1827,49329
+11-12-2021,December,iPhone 11 Pro,Laptop,Bruce,Cochin,35,1112,38920
+02-12-2021,December,iPhone 11 Pro,Headphone,Kate,Delhi,33,1302,42966
+07-10-2021,October,HP Envy x360,Laptop,Asif,Delhi,48,1863,89424
+05-08-2021,August,HP Envy x360,Laptop,Aryan,Cochin,1,1496,1496
+11-03-2021,March,OnePlus Buds,Phone,Krish,Bangalore,35,1744,61040
+25-02-2021,February,Apple AirPods Pro,Laptop,Krish,Bangalore,39,1494,58266
+24-08-2021,August,iPhone 11 Pro,Phone,Giana,Bangalore,21,767,16107
+23-10-2021,October,HP Envy x360,Phone,Krish,Delhi,40,1943,77720
+11-07-2021,July,iPhone 11 Pro,Phone,Asif,Delhi,41,1572,64452
+31-03-2021,March,OnePlus Buds,Headphone,Bruce,Cochin,13,379,4927
+10-01-2021,January,Apple AirPods Pro,Phone,Aryan,Mumbai,42,1614,67788
+07-03-2021,March,Apple AirPods Pro,Phone,Krish,Delhi,18,1264,22752
+08-05-2021,May,HP Envy x360,Headphone,Krish,Bangalore,32,1830,58560
+20-12-2021,December,Dell XPS 13,Headphone,Tara,Cochin,16,777,12432
+19-04-2021,April,OnePlus Buds,Laptop,Giana,Delhi,18,246,4428
+16-08-2021,August,Apple AirPods Pro,Headphone,Giana,Bangalore,21,1804,37884
+11-02-2021,February,Dell XPS 13,Headphone,Asif,Cochin,47,1484,69748
+24-06-2021,June,Dell XPS 13,Headphone,Aryan,Cochin,24,1833,43992
+25-10-2021,October,Apple AirPods Pro,Laptop,Aryan,Bangalore,42,1600,67200
+01-02-2021,February,OnePlus Buds,Phone,Kate,Bangalore,14,1089,15246
+06-03-2021,March,HP Envy x360,Phone,Bruce,Mumbai,38,1224,46512
+13-11-2021,November,Dell XPS 13,Headphone,Bruce,Cochin,38,548,20824
+08-11-2021,November,Apple AirPods Pro,Laptop,Giana,Bangalore,44,281,12364
+17-08-2021,August,Apple AirPods Pro,Laptop,Aryan,Cochin,49,1887,92463
+19-10-2021,October,HP Envy x360,Phone,Asif,Delhi,31,1614,50034
+05-02-2021,February,iPhone 11 Pro,Laptop,Krish,Bangalore,6,1221,7326
+01-01-2021,January,iPhone 11 Pro,Laptop,Aryan,Bangalore,13,1267,16471
+11-05-2021,May,Dell XPS 13,Laptop,Bruce,Delhi,48,876,42048
+03-11-2021,November,iPhone 11 Pro,Headphone,Asif,Bangalore,28,1429,40012
+29-05-2021,May,Dell XPS 13,Headphone,Aryan,Delhi,14,1710,23940
+13-09-2021,September,Apple AirPods Pro,Phone,Aryan,Mumbai,31,109,3379
+23-04-2021,April,OnePlus Buds,Headphone,Kate,Bangalore,30,1876,56280
+09-01-2021,January,Dell XPS 13,Headphone,Kate,Cochin,15,1386,20790
+04-06-2021,June,OnePlus Buds,Headphone,Aryan,Cochin,19,1672,31768
+09-11-2021,November,OnePlus Buds,Headphone,Giana,Delhi,18,1036,18648
+26-05-2021,May,Dell XPS 13,Phone,Kate,Mumbai,45,1846,83070
+01-01-2022,January,HP Envy x360,Phone,Bruce,Bangalore,12,1451,17412
+26-03-2021,March,Apple AirPods Pro,Headphone,Kate,Mumbai,5,1081,5405
+29-09-2021,September,OnePlus Buds,Headphone,Kate,Mumbai,5,1713,8565
+04-02-2021,February,Apple AirPods Pro,Laptop,Tara,Bangalore,28,1541,43148
+18-05-2021,May,iPhone 11 Pro,Phone,Kate,Cochin,41,1894,77654
+16-05-2021,May,Apple AirPods Pro,Headphone,Asif,Cochin,18,1947,35046
+03-03-2021,March,Dell XPS 13,Laptop,Tara,Cochin,10,200,2000
+02-10-2021,October,HP Envy x360,Laptop,Krish,Cochin,9,1156,10404
+17-03-2021,March,Apple AirPods Pro,Headphone,Kate,Mumbai,39,1291,50349
+02-07-2021,July,OnePlus Buds,Laptop,Kate,Cochin,7,1890,13230
+28-11-2021,November,HP Envy x360,Laptop,Tara,Cochin,46,1503,69138
+05-07-2021,July,Apple AirPods Pro,Laptop,Asif,Cochin,45,1540,69300
+07-10-2021,October,OnePlus Buds,Phone,Giana,Bangalore,17,781,13277
+07-03-2021,March,OnePlus Buds,Laptop,Aryan,Delhi,46,1146,52716
+11-11-2021,November,Apple AirPods Pro,Laptop,Kate,Cochin,17,1885,32045
+22-06-2021,June,HP Envy x360,Headphone,Asif,Bangalore,48,1273,61104
+16-01-2021,January,Dell XPS 13,Headphone,Asif,Delhi,43,1755,75465
+22-10-2021,October,iPhone 11 Pro,Phone,Krish,Bangalore,10,1336,13360
+21-10-2021,October,iPhone 11 Pro,Laptop,Asif,Cochin,40,1350,54000
+11-08-2021,August,Dell XPS 13,Headphone,Giana,Cochin,4,1081,4324
+07-12-2021,December,Apple AirPods Pro,Headphone,Tara,Mumbai,42,970,40740
+19-02-2021,February,HP Envy x360,Laptop,Bruce,Delhi,33,873,28809
+09-10-2021,October,Apple AirPods Pro,Headphone,Bruce,Mumbai,49,566,27734
+02-11-2021,November,Dell XPS 13,Phone,Giana,Cochin,3,1901,5703
+24-05-2021,May,iPhone 11 Pro,Headphone,Bruce,Bangalore,16,1239,19824
+25-01-2021,January,Apple AirPods Pro,Phone,Asif,Cochin,19,990,18810
+04-10-2021,October,Dell XPS 13,Phone,Bruce,Delhi,5,650,3250
+16-07-2021,July,HP Envy x360,Headphone,Aryan,Mumbai,1,1401,1401
+08-11-2021,November,OnePlus Buds,Headphone,Asif,Cochin,28,313,8764
+05-12-2021,December,Apple AirPods Pro,Headphone,Giana,Mumbai,50,1710,85500
+17-12-2021,December,Dell XPS 13,Phone,Tara,Mumbai,12,152,1824
+24-08-2021,August,iPhone 11 Pro,Laptop,Krish,Delhi,20,406,8120
+04-08-2021,August,iPhone 11 Pro,Headphone,Kate,Cochin,28,451,12628
+13-04-2021,April,OnePlus Buds,Laptop,Aryan,Delhi,21,141,2961
+29-11-2021,November,Dell XPS 13,Phone,Giana,Bangalore,22,914,20108
+14-08-2021,August,Dell XPS 13,Headphone,Giana,Cochin,27,970,26190
+26-04-2021,April,iPhone 11 Pro,Laptop,Aryan,Delhi,8,1911,15288
+05-11-2021,November,OnePlus Buds,Phone,Tara,Bangalore,2,1151,2302
+03-06-2021,June,Apple AirPods Pro,Headphone,Giana,Delhi,21,1981,41601
+19-12-2021,December,HP Envy x360,Laptop,Krish,Cochin,33,1533,50589
+21-04-2021,April,OnePlus Buds,Headphone,Bruce,Cochin,36,1197,43092
+19-03-2021,March,HP Envy x360,Phone,Aryan,Mumbai,42,1980,83160
+25-02-2021,February,Dell XPS 13,Laptop,Giana,Delhi,22,1597,35134
+17-03-2021,March,HP Envy x360,Laptop,Giana,Bangalore,33,173,5709
+10-09-2021,September,OnePlus Buds,Phone,Bruce,Cochin,16,1869,29904
+11-12-2021,December,Dell XPS 13,Phone,Kate,Cochin,1,896,896
+21-12-2021,December,iPhone 11 Pro,Phone,Bruce,Mumbai,9,150,1350
+20-02-2021,February,iPhone 11 Pro,Headphone,Kate,Cochin,20,811,16220
+16-11-2021,November,Apple AirPods Pro,Phone,Bruce,Mumbai,42,1520,63840
+18-05-2021,May,Dell XPS 13,Headphone,Bruce,Mumbai,50,1046,52300
+27-02-2021,February,Apple AirPods Pro,Headphone,Asif,Mumbai,17,1818,30906
+11-12-2021,December,Apple AirPods Pro,Laptop,Giana,Mumbai,22,213,4686
+28-12-2021,December,iPhone 11 Pro,Phone,Bruce,Bangalore,13,1005,13065
+22-06-2021,June,Apple AirPods Pro,Headphone,Kate,Cochin,43,1022,43946
+23-02-2021,February,iPhone 11 Pro,Headphone,Bruce,Delhi,6,1367,8202
+03-02-2021,February,Dell XPS 13,Phone,Asif,Cochin,4,849,3396
+13-05-2021,May,iPhone 11 Pro,Laptop,Kate,Bangalore,26,1353,35178
+20-11-2021,November,Dell XPS 13,Phone,Aryan,Cochin,26,1370,35620
+27-08-2021,August,HP Envy x360,Headphone,Bruce,Delhi,46,1873,86158
+18-12-2021,December,Dell XPS 13,Laptop,Bruce,Mumbai,16,1516,24256
+23-07-2021,July,HP Envy x360,Phone,Asif,Cochin,30,823,24690
+07-01-2021,January,iPhone 11 Pro,Phone,Tara,Mumbai,33,1854,61182
+05-02-2021,February,Dell XPS 13,Laptop,Bruce,Cochin,14,446,6244
+15-05-2021,May,OnePlus Buds,Headphone,Aryan,Bangalore,48,1935,92880
+20-02-2021,February,OnePlus Buds,Phone,Krish,Cochin,33,1687,55671
+13-02-2021,February,OnePlus Buds,Headphone,Giana,Cochin,39,539,21021
+19-03-2021,March,iPhone 11 Pro,Headphone,Aryan,Mumbai,9,884,7956
+28-09-2021,September,Apple AirPods Pro,Laptop,Giana,Delhi,20,449,8980
+29-03-2021,March,iPhone 11 Pro,Laptop,Bruce,Delhi,45,1396,62820
+06-11-2021,November,iPhone 11 Pro,Phone,Kate,Cochin,41,1882,77162
+27-10-2021,October,OnePlus Buds,Laptop,Asif,Mumbai,16,206,3296
+03-03-2021,March,iPhone 11 Pro,Headphone,Bruce,Cochin,10,1482,14820
+01-10-2021,October,HP Envy x360,Phone,Bruce,Cochin,40,607,24280
+10-03-2021,March,OnePlus Buds,Phone,Aryan,Cochin,47,1538,72286
+14-12-2021,December,OnePlus Buds,Phone,Kate,Delhi,46,1311,60306
+21-02-2021,February,HP Envy x360,Headphone,Giana,Cochin,31,1571,48701
+03-01-2021,January,HP Envy x360,Headphone,Asif,Cochin,14,910,12740
+29-07-2021,July,HP Envy x360,Phone,Kate,Mumbai,3,1181,3543
+23-06-2021,June,Dell XPS 13,Headphone,Krish,Delhi,47,497,23359
+28-04-2021,April,Apple AirPods Pro,Headphone,Krish,Cochin,32,1911,61152
+15-12-2021,December,iPhone 11 Pro,Laptop,Asif,Cochin,29,743,21547
+11-12-2021,December,Dell XPS 13,Laptop,Kate,Mumbai,31,191,5921
+21-08-2021,August,HP Envy x360,Laptop,Aryan,Cochin,33,1847,60951
+12-06-2021,June,OnePlus Buds,Headphone,Kate,Mumbai,22,331,7282
+02-03-2021,March,iPhone 11 Pro,Headphone,Kate,Delhi,23,1315,30245
+27-06-2021,June,OnePlus Buds,Phone,Kate,Mumbai,25,297,7425
+14-11-2021,November,HP Envy x360,Phone,Aryan,Delhi,27,1990,53730
+19-09-2021,September,OnePlus Buds,Headphone,Krish,Bangalore,24,1897,45528
+28-06-2021,June,Dell XPS 13,Laptop,Asif,Bangalore,26,448,11648
+21-09-2021,September,Dell XPS 13,Laptop,Bruce,Mumbai,23,1249,28727
+31-07-2021,July,OnePlus Buds,Laptop,Krish,Delhi,13,1663,21619
+04-01-2021,January,iPhone 11 Pro,Laptop,Giana,Cochin,27,561,15147
+23-05-2021,May,OnePlus Buds,Headphone,Tara,Cochin,36,1654,59544
+12-05-2021,May,OnePlus Buds,Phone,Asif,Bangalore,19,1739,33041
+17-07-2021,July,Apple AirPods Pro,Headphone,Giana,Mumbai,46,1400,64400
+22-01-2021,January,Apple AirPods Pro,Headphone,Bruce,Bangalore,32,646,20672
+16-05-2021,May,OnePlus Buds,Laptop,Kate,Mumbai,44,1022,44968
+01-04-2021,April,HP Envy x360,Headphone,Krish,Delhi,1,1500,1500
+14-11-2021,November,HP Envy x360,Phone,Asif,Bangalore,46,821,37766
+06-11-2021,November,Apple AirPods Pro,Phone,Giana,Bangalore,35,1061,37135
+29-09-2021,September,Dell XPS 13,Headphone,Kate,Delhi,43,303,13029
+13-05-2021,May,iPhone 11 Pro,Phone,Bruce,Mumbai,28,1377,38556
+19-04-2021,April,iPhone 11 Pro,Laptop,Tara,Mumbai,4,1302,5208
+16-04-2021,April,HP Envy x360,Headphone,Bruce,Cochin,35,651,22785
+27-05-2021,May,HP Envy x360,Headphone,Kate,Delhi,13,450,5850
+03-05-2021,May,Apple AirPods Pro,Laptop,Giana,Bangalore,25,1461,36525
+26-09-2021,September,Apple AirPods Pro,Laptop,Kate,Mumbai,9,960,8640
+27-02-2021,February,Apple AirPods Pro,Laptop,Kate,Cochin,2,1791,3582
+05-04-2021,April,iPhone 11 Pro,Phone,Aryan,Delhi,20,1544,30880
+11-01-2021,January,iPhone 11 Pro,Headphone,Bruce,Delhi,44,1629,71676
+11-03-2021,March,iPhone 11 Pro,Laptop,Kate,Mumbai,50,362,18100
+16-06-2021,June,Dell XPS 13,Phone,Aryan,Delhi,36,940,33840
+10-01-2021,January,HP Envy x360,Phone,Asif,Cochin,4,1779,7116
+11-07-2021,July,OnePlus Buds,Headphone,Krish,Bangalore,47,627,29469
+22-12-2021,December,HP Envy x360,Laptop,Giana,Bangalore,16,1982,31712
+25-05-2021,May,iPhone 11 Pro,Laptop,Asif,Cochin,46,1496,68816
+14-06-2021,June,iPhone 11 Pro,Laptop,Aryan,Mumbai,48,701,33648
+12-02-2021,February,HP Envy x360,Laptop,Kate,Mumbai,15,271,4065
+15-04-2021,April,Apple AirPods Pro,Headphone,Kate,Bangalore,3,1039,3117
+23-04-2021,April,iPhone 11 Pro,Headphone,Giana,Delhi,33,1487,49071
+05-09-2021,September,OnePlus Buds,Laptop,Kate,Mumbai,6,733,4398
+08-08-2021,August,OnePlus Buds,Laptop,Kate,Bangalore,4,1201,4804
+03-05-2021,May,HP Envy x360,Phone,Giana,Mumbai,14,1871,26194
+15-11-2021,November,HP Envy x360,Phone,Bruce,Bangalore,20,1709,34180
+24-05-2021,May,OnePlus Buds,Phone,Asif,Bangalore,30,405,12150
+20-06-2021,June,Dell XPS 13,Headphone,Kate,Mumbai,48,780,37440
+23-09-2021,September,HP Envy x360,Phone,Bruce,Delhi,36,358,12888
+02-06-2021,June,HP Envy x360,Headphone,Giana,Delhi,14,1596,22344
+17-11-2021,November,iPhone 11 Pro,Laptop,Krish,Mumbai,34,327,11118
+10-10-2021,October,OnePlus Buds,Headphone,Aryan,Delhi,4,1079,4316
+14-06-2021,June,Apple AirPods Pro,Headphone,Bruce,Delhi,8,1608,12864
+09-10-2021,October,Apple AirPods Pro,Headphone,Giana,Bangalore,47,210,9870
+26-03-2021,March,OnePlus Buds,Laptop,Tara,Bangalore,39,480,18720
+30-04-2021,April,Dell XPS 13,Phone,Kate,Mumbai,17,1319,22423
+13-10-2021,October,HP Envy x360,Headphone,Krish,Delhi,47,1254,58938
+03-07-2021,July,HP Envy x360,Phone,Asif,Cochin,32,123,3936
+23-02-2021,February,OnePlus Buds,Headphone,Aryan,Bangalore,17,1264,21488
+12-05-2021,May,iPhone 11 Pro,Laptop,Giana,Mumbai,5,1034,5170
+29-03-2021,March,Apple AirPods Pro,Headphone,Bruce,Mumbai,45,1310,58950
+13-03-2021,March,iPhone 11 Pro,Headphone,Bruce,Delhi,39,404,15756
+06-10-2021,October,Dell XPS 13,Phone,Kate,Bangalore,33,815,26895
+19-06-2021,June,Apple AirPods Pro,Phone,Tara,Delhi,48,1238,59424
+24-07-2021,July,OnePlus Buds,Headphone,Kate,Delhi,41,708,29028
+03-11-2021,November,HP Envy x360,Headphone,Asif,Cochin,17,1239,21063
+02-04-2021,April,Dell XPS 13,Phone,Bruce,Mumbai,1,1531,1531
+13-05-2021,May,Dell XPS 13,Phone,Asif,Bangalore,36,1333,47988
+10-03-2021,March,iPhone 11 Pro,Laptop,Krish,Bangalore,50,1510,75500
+17-05-2021,May,Dell XPS 13,Laptop,Tara,Cochin,46,1109,51014
+05-10-2021,October,HP Envy x360,Laptop,Krish,Bangalore,34,1668,56712
+18-08-2021,August,Apple AirPods Pro,Laptop,Tara,Mumbai,29,1693,49097
+18-11-2021,November,Apple AirPods Pro,Laptop,Aryan,Cochin,47,1407,66129
+06-05-2021,May,OnePlus Buds,Laptop,Giana,Cochin,34,1458,49572
+04-10-2021,October,OnePlus Buds,Laptop,Tara,Mumbai,47,782,36754
+10-08-2021,August,HP Envy x360,Laptop,Giana,Mumbai,17,303,5151
+19-06-2021,June,HP Envy x360,Laptop,Krish,Bangalore,27,213,5751
+29-11-2021,November,iPhone 11 Pro,Phone,Kate,Bangalore,42,878,36876
+25-12-2021,December,Dell XPS 13,Headphone,Krish,Cochin,35,1924,67340
+16-08-2021,August,OnePlus Buds,Headphone,Krish,Cochin,23,552,12696
+15-04-2021,April,iPhone 11 Pro,Phone,Asif,Cochin,30,1963,58890
+19-06-2021,June,Apple AirPods Pro,Phone,Kate,Delhi,37,1715,63455
+09-02-2021,February,Dell XPS 13,Phone,Krish,Cochin,18,286,5148
+12-06-2021,June,Apple AirPods Pro,Laptop,Tara,Cochin,7,1772,12404
+24-06-2021,June,iPhone 11 Pro,Laptop,Krish,Cochin,50,794,39700
+30-01-2021,January,HP Envy x360,Headphone,Giana,Bangalore,16,333,5328
+14-09-2021,September,Apple AirPods Pro,Laptop,Bruce,Bangalore,29,976,28304
+27-05-2021,May,Apple AirPods Pro,Headphone,Bruce,Delhi,26,1174,30524
+29-12-2021,December,iPhone 11 Pro,Headphone,Giana,Mumbai,6,575,3450
+19-04-2021,April,Dell XPS 13,Laptop,Kate,Cochin,15,816,12240
+15-05-2021,May,Dell XPS 13,Headphone,Tara,Mumbai,19,1623,30837
+04-01-2021,January,HP Envy x360,Laptop,Asif,Bangalore,43,1000,43000
+14-06-2021,June,iPhone 11 Pro,Laptop,Asif,Cochin,6,371,2226
+18-06-2021,June,OnePlus Buds,Headphone,Tara,Cochin,25,320,8000
+22-06-2021,June,OnePlus Buds,Laptop,Aryan,Cochin,50,1117,55850
+27-07-2021,July,Dell XPS 13,Headphone,Kate,Delhi,24,862,20688
+08-05-2021,May,Apple AirPods Pro,Phone,Giana,Mumbai,4,555,2220
+27-07-2021,July,Dell XPS 13,Laptop,Bruce,Bangalore,39,1099,42861
+09-07-2021,July,Apple AirPods Pro,Laptop,Bruce,Mumbai,40,654,26160
+04-06-2021,June,OnePlus Buds,Headphone,Bruce,Bangalore,8,161,1288
+28-10-2021,October,Dell XPS 13,Headphone,Giana,Bangalore,28,1739,48692
+22-05-2021,May,Apple AirPods Pro,Laptop,Krish,Delhi,12,1399,16788
+29-03-2021,March,OnePlus Buds,Phone,Bruce,Cochin,2,1620,3240
+16-04-2021,April,iPhone 11 Pro,Phone,Giana,Delhi,3,1061,3183
+24-11-2021,November,Apple AirPods Pro,Phone,Krish,Bangalore,30,1588,47640
+12-07-2021,July,Apple AirPods Pro,Laptop,Bruce,Mumbai,48,1103,52944
+10-05-2021,May,Dell XPS 13,Laptop,Krish,Bangalore,22,1610,35420
+06-02-2021,February,Apple AirPods Pro,Phone,Asif,Mumbai,50,391,19550
+17-11-2021,November,Apple AirPods Pro,Laptop,Tara,Mumbai,29,1473,42717
+23-05-2021,May,Apple AirPods Pro,Phone,Krish,Mumbai,23,747,17181
+01-06-2021,June,Dell XPS 13,Headphone,Asif,Bangalore,34,738,25092
+22-02-2021,February,Dell XPS 13,Laptop,Asif,Bangalore,14,1593,22302
+13-03-2021,March,HP Envy x360,Headphone,Aryan,Cochin,39,1325,51675
+30-03-2021,March,OnePlus Buds,Phone,Krish,Bangalore,14,1024,14336
+27-04-2021,April,iPhone 11 Pro,Laptop,Kate,Cochin,25,250,6250
+12-06-2021,June,OnePlus Buds,Phone,Krish,Delhi,23,682,15686
+13-12-2021,December,OnePlus Buds,Phone,Bruce,Mumbai,11,1748,19228
+16-12-2021,December,Dell XPS 13,Laptop,Aryan,Delhi,23,354,8142
+03-02-2021,February,Apple AirPods Pro,Headphone,Krish,Mumbai,9,279,2511
+11-07-2021,July,Dell XPS 13,Phone,Asif,Delhi,26,860,22360
+01-09-2021,September,Dell XPS 13,Phone,Giana,Mumbai,19,1898,36062
+19-05-2021,May,Apple AirPods Pro,Laptop,Aryan,Bangalore,6,1185,7110
+07-10-2021,October,OnePlus Buds,Headphone,Giana,Bangalore,35,1537,53795
+27-01-2021,January,Dell XPS 13,Laptop,Giana,Cochin,14,910,12740
+21-02-2021,February,Apple AirPods Pro,Phone,Aryan,Mumbai,28,1393,39004
+11-04-2021,April,iPhone 11 Pro,Headphone,Krish,Delhi,7,629,4403
+25-07-2021,July,Dell XPS 13,Laptop,Kate,Cochin,2,470,940
+01-11-2021,November,Apple AirPods Pro,Phone,Tara,Cochin,11,650,7150
+02-03-2021,March,Dell XPS 13,Laptop,Bruce,Bangalore,15,1821,27315
+30-11-2021,November,iPhone 11 Pro,Headphone,Giana,Delhi,1,1101,1101
+11-11-2021,November,Apple AirPods Pro,Headphone,Kate,Delhi,34,1692,57528
+03-09-2021,September,iPhone 11 Pro,Headphone,Aryan,Mumbai,47,750,35250
+18-07-2021,July,HP Envy x360,Phone,Tara,Cochin,12,721,8652
+27-03-2021,March,OnePlus Buds,Headphone,Giana,Delhi,41,368,15088
+03-10-2021,October,HP Envy x360,Laptop,Giana,Mumbai,4,1340,5360
+15-01-2021,January,iPhone 11 Pro,Laptop,Krish,Delhi,50,1177,58850
+07-08-2021,August,Apple AirPods Pro,Headphone,Giana,Delhi,1,1685,1685
+09-12-2021,December,OnePlus Buds,Phone,Tara,Cochin,29,603,17487
+21-07-2021,July,HP Envy x360,Phone,Giana,Delhi,29,1986,57594
+27-03-2021,March,Dell XPS 13,Laptop,Tara,Cochin,7,976,6832
+15-03-2021,March,iPhone 11 Pro,Laptop,Giana,Bangalore,43,432,18576
+27-04-2021,April,OnePlus Buds,Headphone,Tara,Bangalore,27,705,19035
+04-03-2021,March,Dell XPS 13,Headphone,Aryan,Delhi,17,308,5236
+01-12-2021,December,Dell XPS 13,Laptop,Giana,Mumbai,14,523,7322
+29-10-2021,October,OnePlus Buds,Headphone,Kate,Bangalore,41,1812,74292
+02-11-2021,November,Dell XPS 13,Phone,Giana,Cochin,46,1464,67344
+25-02-2021,February,HP Envy x360,Laptop,Tara,Bangalore,41,509,20869
+29-04-2021,April,Dell XPS 13,Phone,Aryan,Cochin,32,651,20832
+27-04-2021,April,HP Envy x360,Headphone,Tara,Delhi,3,1063,3189
+30-09-2021,September,OnePlus Buds,Headphone,Giana,Mumbai,1,450,450
+01-02-2021,February,Apple AirPods Pro,Headphone,Tara,Cochin,28,1063,29764
+19-06-2021,June,Apple AirPods Pro,Phone,Kate,Bangalore,28,1337,37436
+18-11-2021,November,iPhone 11 Pro,Phone,Tara,Delhi,16,1085,17360
+09-11-2021,November,iPhone 11 Pro,Phone,Bruce,Bangalore,36,613,22068
+13-10-2021,October,iPhone 11 Pro,Laptop,Aryan,Delhi,10,1704,17040
+01-06-2021,June,Dell XPS 13,Headphone,Kate,Mumbai,8,615,4920
+14-02-2021,February,Apple AirPods Pro,Headphone,Bruce,Bangalore,32,1727,55264
+22-02-2021,February,Dell XPS 13,Laptop,Kate,Bangalore,35,1209,42315
+04-11-2021,November,iPhone 11 Pro,Headphone,Krish,Bangalore,16,128,2048
+24-07-2021,July,Apple AirPods Pro,Headphone,Krish,Bangalore,11,1646,18106
+25-06-2021,June,HP Envy x360,Laptop,Asif,Delhi,35,303,10605
+25-12-2021,December,iPhone 11 Pro,Phone,Giana,Cochin,46,1867,85882
+28-07-2021,July,Apple AirPods Pro,Phone,Krish,Delhi,50,458,22900
+24-11-2021,November,iPhone 11 Pro,Laptop,Kate,Delhi,20,347,6940
+15-03-2021,March,OnePlus Buds,Laptop,Tara,Cochin,6,1261,7566
+08-07-2021,July,iPhone 11 Pro,Laptop,Giana,Mumbai,30,526,15780
+28-04-2021,April,OnePlus Buds,Laptop,Aryan,Mumbai,37,1456,53872
+11-08-2021,August,OnePlus Buds,Headphone,Bruce,Bangalore,35,390,13650
+16-07-2021,July,HP Envy x360,Laptop,Aryan,Bangalore,6,366,2196
+22-02-2021,February,Apple AirPods Pro,Phone,Aryan,Bangalore,17,692,11764
+19-01-2021,January,HP Envy x360,Phone,Krish,Bangalore,50,477,23850
+27-07-2021,July,OnePlus Buds,Phone,Tara,Cochin,10,459,4590
+29-09-2021,September,OnePlus Buds,Laptop,Krish,Cochin,42,206,8652
+24-12-2021,December,iPhone 11 Pro,Laptop,Kate,Mumbai,47,1292,60724
+22-05-2021,May,OnePlus Buds,Phone,Tara,Cochin,12,1411,16932
+30-03-2021,March,iPhone 11 Pro,Laptop,Kate,Bangalore,20,427,8540
+21-02-2021,February,Apple AirPods Pro,Headphone,Kate,Bangalore,29,1834,53186
+29-09-2021,September,OnePlus Buds,Phone,Kate,Mumbai,41,309,12669
+16-01-2021,January,Dell XPS 13,Headphone,Giana,Mumbai,27,1445,39015
+28-07-2021,July,OnePlus Buds,Phone,Bruce,Delhi,19,240,4560
+16-07-2021,July,iPhone 11 Pro,Phone,Krish,Cochin,7,1819,12733
+10-10-2021,October,Apple AirPods Pro,Phone,Asif,Delhi,29,139,4031
+14-03-2021,March,Apple AirPods Pro,Headphone,Tara,Mumbai,25,1919,47975
+07-06-2021,June,Dell XPS 13,Headphone,Krish,Cochin,33,223,7359
+11-05-2021,May,HP Envy x360,Phone,Krish,Cochin,25,1049,26225
+05-03-2021,March,iPhone 11 Pro,Phone,Tara,Mumbai,20,465,9300
+01-04-2021,April,Dell XPS 13,Phone,Krish,Delhi,19,1231,23389
+15-06-2021,June,iPhone 11 Pro,Headphone,Tara,Mumbai,21,1476,30996
+09-04-2021,April,OnePlus Buds,Phone,Aryan,Mumbai,22,353,7766
+10-03-2021,March,HP Envy x360,Phone,Giana,Cochin,1,671,671
+01-09-2021,September,Dell XPS 13,Phone,Kate,Delhi,30,1746,52380
+07-01-2021,January,Apple AirPods Pro,Headphone,Tara,Bangalore,47,1485,69795
+03-02-2021,February,OnePlus Buds,Phone,Krish,Bangalore,49,1957,95893
+07-07-2021,July,Apple AirPods Pro,Headphone,Kate,Mumbai,15,564,8460
+15-02-2021,February,OnePlus Buds,Phone,Giana,Bangalore,49,149,7301
+07-07-2021,July,Dell XPS 13,Phone,Asif,Cochin,33,1016,33528
+18-06-2021,June,iPhone 11 Pro,Headphone,Krish,Bangalore,45,445,20025
+07-11-2021,November,Dell XPS 13,Headphone,Asif,Mumbai,46,1010,46460
+12-08-2021,August,Dell XPS 13,Headphone,Aryan,Delhi,8,1157,9256
+26-11-2021,November,HP Envy x360,Laptop,Aryan,Delhi,19,950,18050
+18-11-2021,November,Dell XPS 13,Phone,Tara,Bangalore,32,1532,49024
+12-11-2021,November,HP Envy x360,Laptop,Tara,Cochin,6,427,2562
+03-08-2021,August,Apple AirPods Pro,Phone,Bruce,Cochin,12,1299,15588
+25-11-2021,November,HP Envy x360,Phone,Asif,Delhi,25,1602,40050
+14-07-2021,July,HP Envy x360,Laptop,Kate,Mumbai,44,1427,62788
+28-07-2021,July,Apple AirPods Pro,Phone,Krish,Cochin,8,558,4464
+30-11-2021,November,HP Envy x360,Phone,Giana,Mumbai,37,461,17057
+16-04-2021,April,Dell XPS 13,Laptop,Tara,Cochin,18,1511,27198
+12-04-2021,April,iPhone 11 Pro,Laptop,Tara,Delhi,49,812,39788
+23-09-2021,September,OnePlus Buds,Laptop,Bruce,Delhi,33,780,25740
+04-08-2021,August,Dell XPS 13,Headphone,Tara,Bangalore,27,1373,37071
+04-05-2021,May,Dell XPS 13,Laptop,Asif,Bangalore,25,410,10250
+01-02-2021,February,Dell XPS 13,Laptop,Kate,Mumbai,24,1503,36072
+15-12-2021,December,Apple AirPods Pro,Phone,Kate,Cochin,3,1305,3915
+17-03-2021,March,Apple AirPods Pro,Laptop,Kate,Delhi,7,846,5922
+09-12-2021,December,Apple AirPods Pro,Phone,Tara,Bangalore,3,1887,5661
+26-10-2021,October,Apple AirPods Pro,Headphone,Kate,Bangalore,16,402,6432
+17-10-2021,October,Dell XPS 13,Headphone,Kate,Cochin,11,1787,19657
+20-01-2021,January,Apple AirPods Pro,Headphone,Tara,Delhi,2,866,1732
+22-03-2021,March,iPhone 11 Pro,Phone,Krish,Cochin,43,1385,59555
+19-05-2021,May,HP Envy x360,Laptop,Bruce,Delhi,17,1377,23409
+10-01-2021,January,HP Envy x360,Phone,Asif,Bangalore,39,1111,43329
+06-04-2021,April,Dell XPS 13,Headphone,Asif,Cochin,44,960,42240
+07-07-2021,July,Apple AirPods Pro,Headphone,Asif,Cochin,43,1783,76669
+09-08-2021,August,Apple AirPods Pro,Laptop,Kate,Mumbai,18,1415,25470
+04-08-2021,August,OnePlus Buds,Laptop,Krish,Cochin,24,1112,26688
+02-11-2021,November,HP Envy x360,Phone,Bruce,Cochin,41,369,15129
+05-03-2021,March,HP Envy x360,Phone,Krish,Mumbai,10,390,3900
+07-11-2021,November,OnePlus Buds,Laptop,Tara,Bangalore,33,1160,38280
+26-03-2021,March,HP Envy x360,Laptop,Asif,Delhi,11,619,6809
+02-06-2021,June,Apple AirPods Pro,Phone,Kate,Mumbai,46,1264,58144
+07-12-2021,December,Apple AirPods Pro,Phone,Asif,Mumbai,30,1741,52230
+13-11-2021,November,iPhone 11 Pro,Headphone,Bruce,Delhi,1,805,805
+27-02-2021,February,OnePlus Buds,Laptop,Kate,Cochin,15,1661,24915
+30-10-2021,October,HP Envy x360,Headphone,Bruce,Cochin,9,811,7299
+26-09-2021,September,Dell XPS 13,Laptop,Asif,Bangalore,5,1788,8940
+06-08-2021,August,Apple AirPods Pro,Laptop,Tara,Mumbai,50,907,45350
+07-07-2021,July,iPhone 11 Pro,Phone,Tara,Mumbai,2,897,1794
+05-07-2021,July,iPhone 11 Pro,Laptop,Bruce,Mumbai,31,1368,42408
+17-05-2021,May,OnePlus Buds,Laptop,Kate,Delhi,41,467,19147
+20-10-2021,October,Apple AirPods Pro,Phone,Bruce,Mumbai,43,1009,43387
+07-01-2021,January,OnePlus Buds,Headphone,Kate,Bangalore,7,1740,12180
+21-02-2021,February,Dell XPS 13,Headphone,Krish,Cochin,3,708,2124
+12-03-2021,March,Dell XPS 13,Headphone,Bruce,Delhi,15,1640,24600
+28-07-2021,July,iPhone 11 Pro,Phone,Bruce,Delhi,11,1637,18007
+31-05-2021,May,OnePlus Buds,Phone,Giana,Cochin,29,693,20097
+09-04-2021,April,Apple AirPods Pro,Laptop,Kate,Cochin,36,1998,71928
+21-05-2021,May,iPhone 11 Pro,Phone,Asif,Mumbai,35,1249,43715
+19-06-2021,June,Dell XPS 13,Headphone,Giana,Bangalore,23,1327,30521
+25-10-2021,October,Dell XPS 13,Headphone,Giana,Cochin,20,1587,31740
+16-02-2021,February,Apple AirPods Pro,Laptop,Krish,Cochin,35,1237,43295
+02-05-2021,May,OnePlus Buds,Laptop,Asif,Bangalore,23,1290,29670
+09-02-2021,February,HP Envy x360,Phone,Krish,Mumbai,19,980,18620
+11-07-2021,July,Apple AirPods Pro,Laptop,Kate,Bangalore,36,1021,36756
+20-10-2021,October,iPhone 11 Pro,Headphone,Kate,Delhi,40,1399,55960
+26-08-2021,August,Dell XPS 13,Laptop,Asif,Mumbai,19,352,6688
+24-09-2021,September,Dell XPS 13,Laptop,Bruce,Bangalore,16,259,4144
+16-11-2021,November,Dell XPS 13,Phone,Krish,Delhi,17,1477,25109
+22-10-2021,October,iPhone 11 Pro,Laptop,Krish,Cochin,12,1866,22392
+21-02-2021,February,iPhone 11 Pro,Phone,Kate,Bangalore,47,672,31584
+22-02-2021,February,HP Envy x360,Headphone,Aryan,Delhi,13,1341,17433
+28-09-2021,September,iPhone 11 Pro,Headphone,Tara,Cochin,22,653,14366
+09-05-2021,May,HP Envy x360,Laptop,Kate,Delhi,5,313,1565
+28-01-2021,January,Dell XPS 13,Laptop,Giana,Delhi,2,1702,3404
+28-08-2021,August,Dell XPS 13,Headphone,Kate,Bangalore,32,1008,32256
+28-01-2021,January,Dell XPS 13,Headphone,Tara,Cochin,43,307,13201
+06-01-2021,January,OnePlus Buds,Laptop,Giana,Cochin,48,1065,51120
+18-03-2021,March,OnePlus Buds,Phone,Aryan,Cochin,18,1800,32400
+26-12-2021,December,HP Envy x360,Headphone,Aryan,Bangalore,14,1027,14378
+16-08-2021,August,Apple AirPods Pro,Headphone,Aryan,Cochin,42,828,34776
+29-08-2021,August,OnePlus Buds,Phone,Asif,Cochin,13,1657,21541
+07-06-2021,June,Dell XPS 13,Headphone,Tara,Bangalore,41,1316,53956
+29-05-2021,May,OnePlus Buds,Phone,Bruce,Mumbai,45,1870,84150
+23-06-2021,June,Apple AirPods Pro,Phone,Asif,Delhi,31,922,28582
+10-09-2021,September,OnePlus Buds,Headphone,Tara,Cochin,30,126,3780
+12-01-2021,January,HP Envy x360,Laptop,Giana,Cochin,50,812,40600
+23-01-2021,January,HP Envy x360,Headphone,Kate,Bangalore,30,1794,53820
+07-01-2021,January,OnePlus Buds,Phone,Tara,Bangalore,16,1217,19472
+28-10-2021,October,Apple AirPods Pro,Phone,Bruce,Mumbai,21,1301,27321
+20-04-2021,April,Dell XPS 13,Headphone,Kate,Mumbai,36,299,10764
+16-05-2021,May,HP Envy x360,Phone,Tara,Bangalore,11,1161,12771
+30-07-2021,July,iPhone 11 Pro,Laptop,Krish,Mumbai,18,950,17100
+19-07-2021,July,Dell XPS 13,Phone,Tara,Bangalore,12,689,8268
+08-12-2021,December,Dell XPS 13,Headphone,Kate,Mumbai,3,117,351
+24-07-2021,July,iPhone 11 Pro,Headphone,Bruce,Delhi,4,354,1416
+19-02-2021,February,OnePlus Buds,Headphone,Asif,Mumbai,32,119,3808
+25-09-2021,September,OnePlus Buds,Headphone,Aryan,Cochin,1,1972,1972
+14-06-2021,June,Apple AirPods Pro,Laptop,Giana,Bangalore,28,608,17024
+07-02-2021,February,OnePlus Buds,Phone,Aryan,Mumbai,7,666,4662
+20-05-2021,May,Apple AirPods Pro,Laptop,Aryan,Delhi,16,1166,18656
+05-03-2021,March,Dell XPS 13,Phone,Giana,Bangalore,4,1158,4632
+09-11-2021,November,HP Envy x360,Headphone,Krish,Cochin,13,232,3016
+28-12-2021,December,HP Envy x360,Laptop,Aryan,Cochin,38,671,25498
+08-04-2021,April,HP Envy x360,Headphone,Giana,Cochin,50,357,17850
+08-10-2021,October,Apple AirPods Pro,Phone,Tara,Cochin,30,1065,31950
+05-08-2021,August,Dell XPS 13,Laptop,Tara,Mumbai,33,766,25278
+04-11-2021,November,Dell XPS 13,Headphone,Bruce,Delhi,16,747,11952
+04-01-2021,January,HP Envy x360,Phone,Tara,Bangalore,14,1118,15652
+18-08-2021,August,iPhone 11 Pro,Headphone,Bruce,Bangalore,33,872,28776
+10-04-2021,April,OnePlus Buds,Laptop,Aryan,Bangalore,15,1351,20265
+21-09-2021,September,Apple AirPods Pro,Phone,Bruce,Cochin,10,1255,12550
+16-02-2021,February,OnePlus Buds,Laptop,Giana,Bangalore,36,104,3744
+15-01-2021,January,iPhone 11 Pro,Phone,Krish,Cochin,50,148,7400
+05-03-2021,March,iPhone 11 Pro,Headphone,Kate,Cochin,33,278,9174
+30-07-2021,July,OnePlus Buds,Laptop,Bruce,Mumbai,46,130,5980
+20-08-2021,August,iPhone 11 Pro,Laptop,Kate,Cochin,20,1218,24360
+15-09-2021,September,HP Envy x360,Headphone,Bruce,Cochin,6,1802,10812
+20-05-2021,May,Apple AirPods Pro,Headphone,Asif,Mumbai,8,291,2328
+19-04-2021,April,Dell XPS 13,Phone,Asif,Cochin,12,1136,13632
+11-02-2021,February,Dell XPS 13,Phone,Bruce,Mumbai,39,966,37674
+23-11-2021,November,HP Envy x360,Phone,Kate,Bangalore,24,752,18048
+12-05-2021,May,Dell XPS 13,Phone,Tara,Cochin,27,1254,33858
+11-02-2021,February,OnePlus Buds,Headphone,Aryan,Delhi,24,1223,29352
+15-05-2021,May,Dell XPS 13,Headphone,Asif,Delhi,12,103,1236
+22-06-2021,June,HP Envy x360,Laptop,Giana,Cochin,2,1094,2188
+01-01-2021,January,iPhone 11 Pro,Laptop,Krish,Bangalore,48,152,7296
+15-11-2021,November,Dell XPS 13,Phone,Aryan,Mumbai,18,506,9108
+25-02-2021,February,OnePlus Buds,Laptop,Giana,Bangalore,45,1601,72045
+18-12-2021,December,Apple AirPods Pro,Phone,Krish,Bangalore,23,1815,41745
+09-01-2021,January,Dell XPS 13,Laptop,Bruce,Cochin,3,1850,5550
+13-10-2021,October,OnePlus Buds,Headphone,Krish,Delhi,25,304,7600
+15-06-2021,June,OnePlus Buds,Laptop,Aryan,Bangalore,8,1984,15872
+06-04-2021,April,OnePlus Buds,Laptop,Bruce,Bangalore,50,1203,60150
+21-11-2021,November,OnePlus Buds,Phone,Giana,Bangalore,11,467,5137
+21-10-2021,October,iPhone 11 Pro,Phone,Aryan,Bangalore,25,186,4650
+06-11-2021,November,iPhone 11 Pro,Headphone,Giana,Delhi,4,986,3944
+04-04-2021,April,iPhone 11 Pro,Headphone,Bruce,Delhi,15,524,7860
+09-02-2021,February,OnePlus Buds,Headphone,Giana,Mumbai,32,1734,55488
+26-02-2021,February,HP Envy x360,Phone,Krish,Delhi,47,1302,61194
+28-07-2021,July,Dell XPS 13,Laptop,Bruce,Delhi,27,1746,47142
+05-01-2021,January,iPhone 11 Pro,Headphone,Tara,Delhi,39,1868,72852
+11-08-2021,August,OnePlus Buds,Headphone,Kate,Delhi,10,728,7280
+17-09-2021,September,Dell XPS 13,Phone,Aryan,Delhi,17,1058,17986
+01-10-2021,October,iPhone 11 Pro,Headphone,Asif,Delhi,42,688,28896
+21-04-2021,April,Apple AirPods Pro,Headphone,Aryan,Mumbai,5,1015,5075
+11-06-2021,June,iPhone 11 Pro,Laptop,Asif,Bangalore,25,1138,28450
+22-02-2021,February,Dell XPS 13,Laptop,Aryan,Cochin,27,580,15660
+20-03-2021,March,HP Envy x360,Phone,Asif,Delhi,32,616,19712
+03-06-2021,June,OnePlus Buds,Laptop,Krish,Cochin,1,1463,1463
+20-08-2021,August,Apple AirPods Pro,Phone,Tara,Bangalore,45,1686,75870
+15-03-2021,March,OnePlus Buds,Headphone,Giana,Cochin,10,1931,19310
+26-12-2021,December,OnePlus Buds,Phone,Asif,Delhi,24,464,11136
+21-05-2021,May,OnePlus Buds,Phone,Kate,Delhi,11,151,1661
+30-10-2021,October,OnePlus Buds,Headphone,Krish,Bangalore,42,1529,64218
+30-09-2021,September,Apple AirPods Pro,Laptop,Giana,Cochin,1,1540,1540
+23-07-2021,July,Apple AirPods Pro,Laptop,Aryan,Delhi,26,1877,48802
+27-12-2021,December,Apple AirPods Pro,Laptop,Bruce,Mumbai,3,1616,4848
+22-10-2021,October,iPhone 11 Pro,Phone,Bruce,Cochin,18,1468,26424
+16-02-2021,February,Dell XPS 13,Laptop,Aryan,Bangalore,34,659,22406
+03-06-2021,June,OnePlus Buds,Phone,Tara,Bangalore,35,809,28315
+25-06-2021,June,Apple AirPods Pro,Phone,Tara,Delhi,25,1119,27975
+16-11-2021,November,iPhone 11 Pro,Phone,Tara,Cochin,17,1892,32164
+21-11-2021,November,Dell XPS 13,Laptop,Tara,Bangalore,14,1058,14812
+23-01-2021,January,iPhone 11 Pro,Laptop,Tara,Bangalore,39,1002,39078
+02-09-2021,September,HP Envy x360,Laptop,Kate,Delhi,8,708,5664
+02-01-2021,January,Dell XPS 13,Phone,Aryan,Bangalore,40,769,30760
+14-03-2021,March,OnePlus Buds,Phone,Krish,Bangalore,6,1755,10530
+01-10-2021,October,Dell XPS 13,Laptop,Aryan,Bangalore,10,762,7620
+27-03-2021,March,Apple AirPods Pro,Headphone,Giana,Bangalore,27,1984,53568
+21-09-2021,September,Dell XPS 13,Phone,Asif,Bangalore,36,820,29520
+02-04-2021,April,iPhone 11 Pro,Laptop,Tara,Cochin,20,395,7900
+04-10-2021,October,OnePlus Buds,Headphone,Aryan,Delhi,5,1315,6575
+14-08-2021,August,Apple AirPods Pro,Phone,Asif,Mumbai,44,1533,67452
+06-10-2021,October,iPhone 11 Pro,Laptop,Giana,Mumbai,14,1513,21182
+02-04-2021,April,Dell XPS 13,Laptop,Asif,Delhi,17,607,10319
+07-07-2021,July,iPhone 11 Pro,Headphone,Asif,Cochin,9,453,4077
+11-07-2021,July,Apple AirPods Pro,Phone,Aryan,Mumbai,30,461,13830
+23-04-2021,April,Apple AirPods Pro,Laptop,Bruce,Cochin,18,406,7308
+03-12-2021,December,OnePlus Buds,Phone,Krish,Mumbai,20,100,2000
+17-07-2021,July,OnePlus Buds,Headphone,Aryan,Mumbai,27,732,19764
+06-04-2021,April,OnePlus Buds,Laptop,Bruce,Delhi,24,370,8880
+19-03-2021,March,Dell XPS 13,Phone,Giana,Cochin,48,598,28704
+21-12-2021,December,Dell XPS 13,Headphone,Aryan,Mumbai,16,961,15376
+16-06-2021,June,HP Envy x360,Laptop,Krish,Mumbai,7,1783,12481
+11-07-2021,July,OnePlus Buds,Headphone,Asif,Mumbai,26,968,25168
+19-06-2021,June,Dell XPS 13,Headphone,Aryan,Cochin,25,1770,44250
+03-04-2021,April,Apple AirPods Pro,Headphone,Asif,Bangalore,7,1485,10395
+30-06-2021,June,Apple AirPods Pro,Headphone,Tara,Mumbai,10,910,9100
+05-09-2021,September,Apple AirPods Pro,Laptop,Giana,Delhi,43,856,36808
+15-05-2021,May,OnePlus Buds,Laptop,Tara,Bangalore,38,350,13300
+11-04-2021,April,Apple AirPods Pro,Laptop,Aryan,Delhi,4,1018,4072
+17-08-2021,August,Dell XPS 13,Phone,Giana,Mumbai,30,725,21750
+15-10-2021,October,iPhone 11 Pro,Phone,Tara,Bangalore,29,117,3393
+29-12-2021,December,iPhone 11 Pro,Laptop,Asif,Mumbai,44,1179,51876
+16-01-2021,January,OnePlus Buds,Headphone,Tara,Cochin,36,1993,71748
+23-12-2021,December,HP Envy x360,Headphone,Krish,Mumbai,34,197,6698
+13-04-2021,April,OnePlus Buds,Phone,Kate,Cochin,18,489,8802
+03-06-2021,June,Dell XPS 13,Headphone,Krish,Mumbai,50,945,47250
+08-01-2021,January,HP Envy x360,Laptop,Giana,Cochin,20,541,10820
+09-05-2021,May,OnePlus Buds,Headphone,Kate,Cochin,26,730,18980
+20-10-2021,October,Apple AirPods Pro,Phone,Bruce,Bangalore,12,1714,20568
+04-07-2021,July,iPhone 11 Pro,Headphone,Tara,Mumbai,25,1312,32800
+17-04-2021,April,OnePlus Buds,Phone,Tara,Mumbai,3,369,1107
+25-09-2021,September,iPhone 11 Pro,Phone,Giana,Cochin,50,307,15350
+16-01-2021,January,Dell XPS 13,Phone,Asif,Delhi,20,1548,30960
+30-10-2021,October,HP Envy x360,Laptop,Tara,Delhi,16,588,9408
+18-11-2021,November,iPhone 11 Pro,Headphone,Bruce,Delhi,19,297,5643
+05-03-2021,March,HP Envy x360,Phone,Krish,Mumbai,16,1242,19872
+11-04-2021,April,Dell XPS 13,Headphone,Tara,Cochin,20,1836,36720
+29-07-2021,July,OnePlus Buds,Phone,Kate,Delhi,38,1677,63726
+04-10-2021,October,HP Envy x360,Phone,Tara,Cochin,7,335,2345
+21-05-2021,May,Dell XPS 13,Phone,Bruce,Delhi,44,1857,81708
+16-01-2021,January,Apple AirPods Pro,Laptop,Aryan,Delhi,3,1076,3228
+25-08-2021,August,Dell XPS 13,Phone,Krish,Bangalore,23,1938,44574
+29-09-2021,September,HP Envy x360,Headphone,Asif,Delhi,14,1056,14784
+21-10-2021,October,OnePlus Buds,Laptop,Bruce,Delhi,18,665,11970
+28-12-2021,December,OnePlus Buds,Phone,Tara,Delhi,46,1894,87124
+03-03-2021,March,iPhone 11 Pro,Laptop,Kate,Cochin,9,956,8604
+14-02-2021,February,Dell XPS 13,Headphone,Krish,Cochin,49,806,39494
+30-04-2021,April,HP Envy x360,Laptop,Asif,Delhi,40,1480,59200
+18-06-2021,June,Apple AirPods Pro,Phone,Tara,Bangalore,26,1614,41964
+06-03-2021,March,Apple AirPods Pro,Phone,Asif,Mumbai,36,229,8244
+12-06-2021,June,OnePlus Buds,Phone,Kate,Bangalore,24,248,5952
+05-01-2021,January,Dell XPS 13,Phone,Kate,Delhi,42,858,36036
+25-07-2021,July,OnePlus Buds,Headphone,Giana,Delhi,32,779,24928
+28-12-2021,December,HP Envy x360,Phone,Asif,Mumbai,33,985,32505
+30-10-2021,October,Dell XPS 13,Headphone,Aryan,Delhi,2,1695,3390
+04-12-2021,December,iPhone 11 Pro,Headphone,Bruce,Delhi,6,713,4278
+31-01-2021,January,Dell XPS 13,Phone,Aryan,Mumbai,5,1237,6185
+30-05-2021,May,Apple AirPods Pro,Headphone,Asif,Delhi,41,1739,71299
+07-10-2021,October,OnePlus Buds,Headphone,Asif,Delhi,6,1730,10380
+21-07-2021,July,Apple AirPods Pro,Headphone,Aryan,Cochin,29,1696,49184
+08-01-2021,January,Dell XPS 13,Headphone,Asif,Mumbai,15,798,11970
+19-07-2021,July,iPhone 11 Pro,Phone,Tara,Mumbai,1,1702,1702
+22-07-2021,July,OnePlus Buds,Laptop,Aryan,Cochin,42,583,24486
+08-06-2021,June,Dell XPS 13,Headphone,Krish,Bangalore,25,1952,48800
+20-07-2021,July,HP Envy x360,Headphone,Krish,Cochin,10,675,6750
+02-01-2021,January,Dell XPS 13,Laptop,Tara,Mumbai,16,275,4400
+27-02-2021,February,iPhone 11 Pro,Phone,Tara,Cochin,22,936,20592
+19-06-2021,June,HP Envy x360,Phone,Giana,Bangalore,23,686,15778
+13-05-2021,May,OnePlus Buds,Headphone,Asif,Bangalore,44,1102,48488
+25-05-2021,May,Dell XPS 13,Phone,Kate,Mumbai,50,757,37850
+19-09-2021,September,Dell XPS 13,Headphone,Giana,Bangalore,13,1340,17420
+16-02-2021,February,HP Envy x360,Laptop,Kate,Delhi,16,675,10800
+26-01-2021,January,iPhone 11 Pro,Phone,Aryan,Bangalore,15,1395,20925
+27-05-2021,May,Dell XPS 13,Phone,Aryan,Cochin,22,584,12848
+24-06-2021,June,HP Envy x360,Headphone,Kate,Bangalore,30,789,23670
+13-03-2021,March,HP Envy x360,Laptop,Asif,Mumbai,9,135,1215
+14-10-2021,October,Apple AirPods Pro,Phone,Giana,Cochin,11,1200,13200
+14-08-2021,August,Dell XPS 13,Laptop,Tara,Bangalore,47,811,38117
+23-02-2021,February,Dell XPS 13,Laptop,Giana,Mumbai,16,319,5104
+02-03-2021,March,Dell XPS 13,Phone,Asif,Bangalore,13,1080,14040
+02-09-2021,September,HP Envy x360,Laptop,Asif,Mumbai,18,103,1854
+23-02-2021,February,Apple AirPods Pro,Headphone,Giana,Delhi,29,1969,57101
+02-01-2021,January,OnePlus Buds,Phone,Kate,Delhi,35,681,23835
+24-04-2021,April,Dell XPS 13,Headphone,Krish,Bangalore,43,416,17888
+11-05-2021,May,iPhone 11 Pro,Headphone,Krish,Delhi,46,1171,53866
+28-11-2021,November,HP Envy x360,Headphone,Bruce,Mumbai,50,1660,83000
+15-02-2021,February,Dell XPS 13,Phone,Bruce,Bangalore,22,1260,27720
+14-10-2021,October,HP Envy x360,Laptop,Krish,Cochin,32,1470,47040
+24-11-2021,November,HP Envy x360,Headphone,Tara,Mumbai,48,403,19344
+09-06-2021,June,HP Envy x360,Phone,Krish,Delhi,15,250,3750
+03-05-2021,May,iPhone 11 Pro,Laptop,Tara,Delhi,23,445,10235
+23-09-2021,September,HP Envy x360,Laptop,Aryan,Bangalore,22,848,18656
+19-12-2021,December,Apple AirPods Pro,Laptop,Bruce,Cochin,23,360,8280
+25-02-2021,February,Dell XPS 13,Laptop,Asif,Delhi,24,1612,38688
+25-09-2021,September,OnePlus Buds,Headphone,Asif,Bangalore,22,1194,26268
+04-01-2021,January,Apple AirPods Pro,Laptop,Asif,Bangalore,25,1352,33800
+12-01-2021,January,HP Envy x360,Phone,Aryan,Cochin,16,1201,19216
+16-04-2021,April,HP Envy x360,Headphone,Bruce,Bangalore,33,1694,55902
+04-07-2021,July,Apple AirPods Pro,Phone,Asif,Delhi,35,861,30135
+26-07-2021,July,OnePlus Buds,Headphone,Bruce,Cochin,26,410,10660
+15-09-2021,September,iPhone 11 Pro,Headphone,Kate,Cochin,46,1025,47150
+16-03-2021,March,Apple AirPods Pro,Headphone,Asif,Bangalore,32,1302,41664
+07-09-2021,September,iPhone 11 Pro,Headphone,Giana,Delhi,38,720,27360
+08-11-2021,November,iPhone 11 Pro,Headphone,Krish,Delhi,20,1444,28880
+13-06-2021,June,OnePlus Buds,Phone,Krish,Delhi,23,1963,45149
+19-02-2021,February,OnePlus Buds,Headphone,Tara,Bangalore,24,569,13656
+15-09-2021,September,iPhone 11 Pro,Laptop,Bruce,Cochin,4,1633,6532
+17-08-2021,August,OnePlus Buds,Phone,Asif,Cochin,43,474,20382
+26-08-2021,August,Apple AirPods Pro,Headphone,Kate,Delhi,26,387,10062
+25-11-2021,November,iPhone 11 Pro,Laptop,Tara,Bangalore,48,1615,77520
+02-02-2021,February,Apple AirPods Pro,Laptop,Aryan,Bangalore,18,1608,28944
+23-09-2021,September,HP Envy x360,Headphone,Krish,Bangalore,28,372,10416
+12-10-2021,October,OnePlus Buds,Headphone,Giana,Cochin,49,330,16170
+12-09-2021,September,Dell XPS 13,Headphone,Giana,Mumbai,13,1844,23972
+27-01-2021,January,OnePlus Buds,Phone,Giana,Cochin,34,280,9520
+02-12-2021,December,Apple AirPods Pro,Phone,Bruce,Cochin,18,608,10944
+09-10-2021,October,Apple AirPods Pro,Phone,Bruce,Mumbai,50,118,5900
+08-09-2021,September,iPhone 11 Pro,Laptop,Bruce,Bangalore,6,149,894
+24-10-2021,October,OnePlus Buds,Headphone,Aryan,Mumbai,21,1306,27426
+21-02-2021,February,Apple AirPods Pro,Headphone,Giana,Mumbai,9,1142,10278
+16-03-2021,March,Apple AirPods Pro,Laptop,Krish,Mumbai,49,1245,61005
+26-03-2021,March,OnePlus Buds,Phone,Bruce,Mumbai,2,1809,3618
+16-12-2021,December,HP Envy x360,Phone,Asif,Cochin,15,1607,24105
+25-01-2021,January,iPhone 11 Pro,Phone,Tara,Mumbai,50,1948,97400
+13-05-2021,May,HP Envy x360,Laptop,Aryan,Delhi,43,546,23478
+26-10-2021,October,Apple AirPods Pro,Headphone,Bruce,Mumbai,1,732,732
+19-02-2021,February,Dell XPS 13,Headphone,Asif,Bangalore,11,174,1914
+23-10-2021,October,HP Envy x360,Headphone,Kate,Delhi,41,1157,47437
+12-11-2021,November,Apple AirPods Pro,Headphone,Giana,Delhi,45,155,6975
+16-08-2021,August,iPhone 11 Pro,Headphone,Krish,Bangalore,2,1366,2732
+01-02-2021,February,iPhone 11 Pro,Headphone,Kate,Delhi,39,1543,60177
+04-06-2021,June,iPhone 11 Pro,Phone,Giana,Cochin,27,774,20898
+22-02-2021,February,HP Envy x360,Phone,Bruce,Bangalore,49,1791,87759
+21-02-2021,February,iPhone 11 Pro,Laptop,Giana,Bangalore,39,284,11076
+18-09-2021,September,Dell XPS 13,Phone,Aryan,Bangalore,40,1597,63880
+31-07-2021,July,Dell XPS 13,Laptop,Asif,Delhi,6,192,1152
+09-03-2021,March,Apple AirPods Pro,Headphone,Aryan,Cochin,1,1209,1209
+25-03-2021,March,iPhone 11 Pro,Phone,Asif,Mumbai,27,535,14445
+12-09-2021,September,Apple AirPods Pro,Headphone,Asif,Mumbai,23,460,10580
+11-12-2021,December,iPhone 11 Pro,Headphone,Aryan,Bangalore,31,1546,47926
+24-11-2021,November,iPhone 11 Pro,Laptop,Kate,Cochin,15,1379,20685
+22-06-2021,June,Dell XPS 13,Headphone,Krish,Mumbai,12,697,8364
+20-01-2021,January,OnePlus Buds,Laptop,Tara,Cochin,42,867,36414
+11-02-2021,February,OnePlus Buds,Headphone,Giana,Mumbai,22,1554,34188
+04-11-2021,November,Apple AirPods Pro,Headphone,Kate,Bangalore,7,554,3878
+08-02-2021,February,Dell XPS 13,Headphone,Kate,Mumbai,35,345,12075
+07-02-2021,February,iPhone 11 Pro,Headphone,Giana,Delhi,20,1891,37820
+02-04-2021,April,Apple AirPods Pro,Phone,Kate,Mumbai,14,1688,23632
+08-06-2021,June,iPhone 11 Pro,Headphone,Tara,Mumbai,30,280,8400
+18-06-2021,June,iPhone 11 Pro,Laptop,Tara,Bangalore,2,998,1996
+09-03-2021,March,Dell XPS 13,Phone,Bruce,Mumbai,27,1094,29538
+19-02-2021,February,HP Envy x360,Laptop,Aryan,Bangalore,48,1735,83280
+21-10-2021,October,iPhone 11 Pro,Laptop,Giana,Cochin,41,696,28536
+16-02-2021,February,HP Envy x360,Laptop,Giana,Mumbai,33,1452,47916
+17-12-2021,December,HP Envy x360,Laptop,Aryan,Bangalore,22,147,3234
+04-05-2021,May,OnePlus Buds,Phone,Bruce,Mumbai,38,1903,72314
+01-03-2021,March,iPhone 11 Pro,Phone,Asif,Delhi,46,1884,86664
+23-11-2021,November,HP Envy x360,Laptop,Giana,Mumbai,19,1653,31407
+27-07-2021,July,OnePlus Buds,Phone,Kate,Cochin,7,1452,10164
+05-10-2021,October,OnePlus Buds,Phone,Giana,Delhi,38,1080,41040
+09-11-2021,November,HP Envy x360,Headphone,Kate,Bangalore,30,697,20910
+01-11-2021,November,Apple AirPods Pro,Phone,Giana,Bangalore,37,1088,40256
+19-04-2021,April,HP Envy x360,Laptop,Kate,Delhi,20,748,14960
+15-05-2021,May,Apple AirPods Pro,Phone,Aryan,Mumbai,39,1210,47190
+02-04-2021,April,HP Envy x360,Headphone,Bruce,Mumbai,31,1487,46097
+08-11-2021,November,iPhone 11 Pro,Laptop,Bruce,Cochin,37,1642,60754
+09-04-2021,April,Apple AirPods Pro,Headphone,Krish,Cochin,1,579,579
+12-04-2021,April,OnePlus Buds,Headphone,Asif,Delhi,21,299,6279
+10-12-2021,December,OnePlus Buds,Phone,Bruce,Delhi,14,1209,16926
+11-02-2021,February,iPhone 11 Pro,Laptop,Aryan,Mumbai,17,1858,31586
+16-09-2021,September,HP Envy x360,Headphone,Aryan,Cochin,1,600,600
+25-10-2021,October,Dell XPS 13,Phone,Giana,Bangalore,45,1208,54360
+23-04-2021,April,OnePlus Buds,Laptop,Bruce,Bangalore,25,195,4875
+30-07-2021,July,OnePlus Buds,Phone,Tara,Delhi,16,989,15824
+11-04-2021,April,Apple AirPods Pro,Phone,Asif,Bangalore,23,1060,24380
+24-04-2021,April,Dell XPS 13,Laptop,Bruce,Bangalore,4,663,2652
+05-03-2021,March,HP Envy x360,Laptop,Kate,Mumbai,34,1076,36584
+03-11-2021,November,Dell XPS 13,Headphone,Krish,Mumbai,18,1411,25398
+05-05-2021,May,Dell XPS 13,Headphone,Krish,Delhi,14,1348,18872
+22-10-2021,October,iPhone 11 Pro,Laptop,Aryan,Cochin,50,546,27300
+27-04-2021,April,OnePlus Buds,Headphone,Asif,Bangalore,8,889,7112
+28-09-2021,September,Apple AirPods Pro,Laptop,Krish,Delhi,44,1472,64768
+01-01-2022,January,Apple AirPods Pro,Laptop,Giana,Mumbai,23,408,9384
+21-04-2021,April,iPhone 11 Pro,Headphone,Kate,Cochin,44,738,32472
+23-03-2021,March,Apple AirPods Pro,Headphone,Asif,Bangalore,45,1413,63585
+23-03-2021,March,Dell XPS 13,Headphone,Tara,Bangalore,43,148,6364
+13-10-2021,October,HP Envy x360,Laptop,Tara,Bangalore,25,872,21800
+29-07-2021,July,OnePlus Buds,Laptop,Kate,Mumbai,21,298,6258
+02-05-2021,May,Apple AirPods Pro,Phone,Tara,Cochin,1,1842,1842
+02-02-2021,February,Dell XPS 13,Laptop,Bruce,Mumbai,25,1683,42075
+21-11-2021,November,Apple AirPods Pro,Phone,Giana,Bangalore,24,214,5136
+02-02-2021,February,Apple AirPods Pro,Laptop,Kate,Mumbai,44,1514,66616
+11-08-2021,August,OnePlus Buds,Headphone,Kate,Delhi,33,145,4785
+04-07-2021,July,Dell XPS 13,Laptop,Tara,Bangalore,44,869,38236
+17-04-2021,April,HP Envy x360,Laptop,Aryan,Cochin,18,1324,23832
+09-08-2021,August,OnePlus Buds,Headphone,Giana,Bangalore,33,1465,48345
+11-11-2021,November,Apple AirPods Pro,Headphone,Krish,Delhi,19,1261,23959
+20-08-2021,August,Apple AirPods Pro,Phone,Krish,Bangalore,30,1518,45540
+13-05-2021,May,iPhone 11 Pro,Laptop,Bruce,Cochin,20,833,16660
+12-11-2021,November,HP Envy x360,Phone,Asif,Bangalore,24,1957,46968
+17-01-2021,January,iPhone 11 Pro,Headphone,Kate,Bangalore,33,612,20196
+09-11-2021,November,OnePlus Buds,Phone,Bruce,Delhi,19,1826,34694
+03-06-2021,June,Dell XPS 13,Laptop,Asif,Mumbai,14,685,9590
+12-02-2021,February,Apple AirPods Pro,Headphone,Giana,Mumbai,50,192,9600
+14-12-2021,December,OnePlus Buds,Phone,Krish,Bangalore,24,160,3840
+20-05-2021,May,iPhone 11 Pro,Laptop,Asif,Mumbai,24,639,15336
+22-03-2021,March,iPhone 11 Pro,Laptop,Tara,Delhi,26,433,11258
+08-12-2021,December,Apple AirPods Pro,Headphone,Aryan,Cochin,5,1650,8250
+23-10-2021,October,Dell XPS 13,Laptop,Tara,Bangalore,24,1477,35448
+10-12-2021,December,Apple AirPods Pro,Phone,Aryan,Mumbai,33,865,28545
+04-06-2021,June,Apple AirPods Pro,Headphone,Bruce,Bangalore,24,125,3000
+14-08-2021,August,OnePlus Buds,Phone,Giana,Mumbai,4,1750,7000
+05-12-2021,December,Dell XPS 13,Phone,Bruce,Cochin,48,1275,61200
+15-09-2021,September,Dell XPS 13,Phone,Krish,Bangalore,23,1385,31855
+04-06-2021,June,iPhone 11 Pro,Laptop,Aryan,Bangalore,2,1346,2692
+29-04-2021,April,HP Envy x360,Headphone,Krish,Cochin,2,157,314
+21-09-2021,September,Dell XPS 13,Phone,Kate,Bangalore,8,175,1400
+29-04-2021,April,OnePlus Buds,Phone,Tara,Delhi,33,1737,57321
+27-06-2021,June,Dell XPS 13,Phone,Tara,Delhi,45,1061,47745
+14-08-2021,August,HP Envy x360,Laptop,Kate,Mumbai,40,472,18880
+04-05-2021,May,HP Envy x360,Phone,Kate,Bangalore,40,1712,68480
+26-02-2021,February,OnePlus Buds,Laptop,Tara,Delhi,38,1942,73796
+14-01-2021,January,HP Envy x360,Laptop,Giana,Delhi,23,1483,34109
+10-01-2021,January,HP Envy x360,Headphone,Bruce,Bangalore,41,1872,76752
+30-11-2021,November,HP Envy x360,Headphone,Kate,Cochin,24,1101,26424
+14-10-2021,October,Apple AirPods Pro,Headphone,Bruce,Mumbai,50,143,7150
+31-05-2021,May,OnePlus Buds,Laptop,Asif,Delhi,41,832,34112
+02-12-2021,December,Dell XPS 13,Phone,Krish,Mumbai,37,1898,70226
+30-05-2021,May,Dell XPS 13,Laptop,Tara,Cochin,47,245,11515
+18-10-2021,October,OnePlus Buds,Headphone,Kate,Cochin,41,566,23206
+12-02-2021,February,HP Envy x360,Laptop,Tara,Mumbai,21,1105,23205
+06-01-2021,January,iPhone 11 Pro,Headphone,Bruce,Delhi,49,1291,63259
+20-04-2021,April,Dell XPS 13,Phone,Asif,Mumbai,20,1716,34320
+07-01-2021,January,Apple AirPods Pro,Headphone,Aryan,Delhi,45,1069,48105
+23-07-2021,July,OnePlus Buds,Headphone,Kate,Delhi,23,1447,33281
+10-09-2021,September,Apple AirPods Pro,Phone,Kate,Bangalore,19,1378,26182
+28-11-2021,November,OnePlus Buds,Phone,Krish,Mumbai,30,1826,54780
+07-09-2021,September,OnePlus Buds,Phone,Kate,Bangalore,50,372,18600
+27-03-2021,March,OnePlus Buds,Phone,Bruce,Delhi,43,713,30659
+05-03-2021,March,Apple AirPods Pro,Headphone,Tara,Cochin,21,1023,21483
+12-08-2021,August,Apple AirPods Pro,Laptop,Bruce,Cochin,21,854,17934
+06-07-2021,July,HP Envy x360,Laptop,Kate,Bangalore,16,207,3312
+12-11-2021,November,OnePlus Buds,Phone,Tara,Delhi,15,1960,29400
+27-06-2021,June,iPhone 11 Pro,Phone,Bruce,Mumbai,15,1649,24735
+19-04-2021,April,HP Envy x360,Laptop,Aryan,Delhi,45,986,44370
+31-10-2021,October,iPhone 11 Pro,Laptop,Asif,Mumbai,3,919,2757
+22-10-2021,October,Apple AirPods Pro,Headphone,Aryan,Mumbai,40,708,28320
+20-03-2021,March,Dell XPS 13,Laptop,Giana,Bangalore,26,169,4394
+21-09-2021,September,OnePlus Buds,Headphone,Krish,Delhi,18,554,9972
+13-03-2021,March,OnePlus Buds,Laptop,Tara,Delhi,28,627,17556
+24-05-2021,May,OnePlus Buds,Phone,Tara,Mumbai,41,110,4510
+12-09-2021,September,iPhone 11 Pro,Phone,Aryan,Bangalore,48,1820,87360
+02-05-2021,May,Apple AirPods Pro,Headphone,Tara,Bangalore,36,938,33768
+10-03-2021,March,iPhone 11 Pro,Headphone,Bruce,Bangalore,28,221,6188
+02-09-2021,September,iPhone 11 Pro,Laptop,Asif,Bangalore,19,670,12730
+04-09-2021,September,HP Envy x360,Headphone,Kate,Cochin,1,1763,1763
+07-10-2021,October,iPhone 11 Pro,Laptop,Tara,Delhi,41,1066,43706
+21-05-2021,May,Dell XPS 13,Headphone,Asif,Mumbai,43,457,19651
+29-01-2021,January,OnePlus Buds,Phone,Bruce,Delhi,12,1258,15096
+29-04-2021,April,OnePlus Buds,Headphone,Krish,Cochin,4,117,468
+22-06-2021,June,HP Envy x360,Laptop,Tara,Delhi,31,520,16120
+09-01-2021,January,HP Envy x360,Phone,Bruce,Cochin,12,138,1656
+09-05-2021,May,HP Envy x360,Headphone,Bruce,Delhi,15,877,13155
+07-01-2021,January,OnePlus Buds,Headphone,Tara,Bangalore,49,1332,65268
+14-11-2021,November,OnePlus Buds,Headphone,Krish,Bangalore,43,105,4515
+10-11-2021,November,Dell XPS 13,Headphone,Asif,Mumbai,18,992,17856
+13-04-2021,April,OnePlus Buds,Laptop,Aryan,Delhi,12,1179,14148
+29-03-2021,March,Dell XPS 13,Laptop,Giana,Cochin,38,866,32908
+10-11-2021,November,Apple AirPods Pro,Phone,Krish,Mumbai,11,1264,13904
